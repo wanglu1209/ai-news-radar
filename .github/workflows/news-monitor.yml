@@ -1,0 +1,82 @@
+name: AI News Monitor
+
+on:
+  # 定时任务：每6小时运行一次
+  schedule:
+    - cron: '0 */6 * * *'  # 北京时间: 8:00, 14:00, 20:00, 2:00
+  
+  # 也可以手动触发
+  workflow_dispatch:
+  
+  # 推送到main分支时也触发（用于测试）
+  push:
+    branches:
+      - main
+    paths:
+      - '**.py'
+      - 'config.yaml'
+      - '.github/workflows/news-monitor.yml'
+
+jobs:
+  fetch-and-notify:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 检出代码
+      uses: actions/checkout@v4
+      with:
+        # 需要获取完整历史以便提交更新
+        fetch-depth: 0
+    
+    - name: 设置Python环境
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+    
+    - name: 安装依赖
+      run: |
+        pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: 创建配置文件
+      run: |
+        # 从配置模板创建实际配置
+        if [ ! -f config.yaml ]; then
+          cp config.yaml.example config.yaml
+          echo "✅ 已创建配置文件"
+        fi
+    
+    - name: 运行新闻监控
+      env:
+        # 从GitHub Secrets获取企业微信Webhook
+        WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
+      run: |
+        python main.py
+    
+    - name: 提交更新的历史记录
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        # 添加数据文件
+        git add data/news_history.json || true
+        
+        # 如果有变更则提交
+        if git diff --staged --quiet; then
+          echo "📝 没有需要提交的更新"
+        else
+          git commit -m "chore: update news history [skip ci]"
+          git push
+          echo "✅ 历史记录已更新"
+        fi
+    
+    - name: 上传日志（如果失败）
+      if: failure()
+      uses: actions/upload-artifact@v4
+      with:
+        name: logs
+        path: |
+          *.log
+        retention-days: 7
+

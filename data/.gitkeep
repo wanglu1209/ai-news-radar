@@ -1,0 +1,3 @@
+# 此文件确保data目录被git追踪
+# news_history.json会在运行时自动生成
+

@@ -1,0 +1,175 @@
+# 企业微信机器人配置
+wecom_webhook: "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=YOUR_KEY_HERE"
+
+# AI新闻源配置（RSS和API）
+news_sources:
+  # ========== 中文AI媒体 ==========
+  - name: "机器之心"
+    url: "https://www.jiqizhixin.com/rss"
+    type: "rss"
+    enabled: true
+  
+  - name: "AI前线（InfoQ）"
+    url: "https://www.infoq.cn/topic/ai/feed"
+    type: "rss"
+    enabled: true
+  
+  - name: "量子位"
+    url: "https://www.qbitai.com/feed"
+    type: "rss"
+    enabled: true
+  
+  # ========== 主流科技媒体 AI频道 ==========
+  - name: "TechCrunch AI"
+    url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+    type: "rss"
+    enabled: true
+  
+  - name: "The Verge AI"
+    url: "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml"
+    type: "rss"
+    enabled: true
+  
+  - name: "VentureBeat AI"
+    url: "https://venturebeat.com/category/ai/feed/"
+    type: "rss"
+    enabled: true
+  
+  - name: "MIT Technology Review AI"
+    url: "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+    type: "rss"
+    enabled: true
+  
+  - name: "Ars Technica AI"
+    url: "https://feeds.arstechnica.com/arstechnica/technology-lab"
+    type: "rss"
+    enabled: true
+  
+  - name: "Wired AI"
+    url: "https://www.wired.com/feed/tag/ai/latest/rss"
+    type: "rss"
+    enabled: true
+  
+  # ========== AI公司官方博客 ==========
+  - name: "OpenAI Blog"
+    url: "https://openai.com/blog/rss/"
+    type: "rss"
+    enabled: true
+  
+  - name: "Anthropic News"
+    url: "https://www.anthropic.com/news/rss.xml"
+    type: "rss"
+    enabled: true
+  
+  - name: "Google AI Blog"
+    url: "https://blog.google/technology/ai/rss/"
+    type: "rss"
+    enabled: true
+  
+  - name: "DeepMind Blog"
+    url: "https://deepmind.google/blog/rss.xml"
+    type: "rss"
+    enabled: true
+  
+  - name: "Meta AI Blog"
+    url: "https://ai.meta.com/blog/rss/"
+    type: "rss"
+    enabled: true
+  
+  - name: "Microsoft AI Blog"
+    url: "https://blogs.microsoft.com/ai/feed/"
+    type: "rss"
+    enabled: true
+  
+  - name: "Hugging Face Blog"
+    url: "https://huggingface.co/blog/feed.xml"
+    type: "rss"
+    enabled: true
+  
+  - name: "Cohere Blog"
+    url: "https://cohere.com/blog/rss.xml"
+    type: "rss"
+    enabled: true
+  
+  - name: "Mistral AI News"
+    url: "https://mistral.ai/news/rss/"
+    type: "rss"
+    enabled: true
+  
+  # ========== 学术研究资源 ==========
+  - name: "Papers with Code - Latest"
+    url: "https://paperswithcode.com/latest/rss"
+    type: "rss"
+    enabled: true
+  
+  - name: "arXiv AI (cs.AI)"
+    url: "http://export.arxiv.org/rss/cs.AI"
+    type: "rss"
+    enabled: false  # 论文较多，可按需开启
+  
+  - name: "arXiv ML (cs.LG)"
+    url: "http://export.arxiv.org/rss/cs.LG"
+    type: "rss"
+    enabled: false  # 论文较多，可按需开启
+  
+  # ========== AI专业社区 ==========
+  - name: "AI Alignment Forum"
+    url: "https://www.alignmentforum.org/feed.xml"
+    type: "rss"
+    enabled: true
+  
+  - name: "LessWrong AI"
+    url: "https://www.lesswrong.com/feed.xml?view=community-rss&karmaThreshold=30"
+    type: "rss"
+    enabled: false  # 内容较杂，可按需开启
+  
+  # ========== AI工具和产品资讯 ==========
+  - name: "Product Hunt AI"
+    url: "https://www.producthunt.com/topics/artificial-intelligence.rss"
+    type: "rss"
+    enabled: true
+  
+  - name: "AI News (aggregator)"
+    url: "https://www.artificialintelligence-news.com/feed/"
+    type: "rss"
+    enabled: true
+
+# 关键词过滤（可选，留空则不过滤）
+# 提示：如果RSS源很多，建议启用关键词过滤，避免信息过载
+keywords:
+  # 模型名称
+  - "GPT"
+  - "Claude"
+  - "Gemini"
+  - "Llama"
+  - "Mistral"
+  - "大模型"
+  - "LLM"
+  # 公司/组织
+  - "OpenAI"
+  - "Anthropic"
+  - "Google"
+  - "DeepMind"
+  - "Meta"
+  - "Microsoft"
+  # 技术关键词
+  - "AI"
+  - "人工智能"
+  - "机器学习"
+  - "深度学习"
+  - "transformer"
+  - "diffusion"
+  - "multimodal"
+  # 事件类型
+  - "发布"
+  - "升级"
+  - "release"
+  - "launch"
+  - "announce"
+  - "breakthrough"
+
+# 推送设置
+push_settings:
+  max_items_per_push: 10  # 每次最多推送条数
+  check_interval_hours: 6  # 检查间隔（小时）
+
