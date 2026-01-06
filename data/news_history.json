@@ -1,8 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3073604": "2025-12-07T01:09:36.591722",
-    "68f0e85e8a1225f1987f99e5": "2025-12-07T01:09:36.591733",
-    "http://www.qbitai.com/?p=359462": "2025-12-07T06:19:18.253191",
     "https://www.jiqizhixin.com/articles/2025-12-07-5": "2025-12-07T12:23:35.699911",
     "https://www.jiqizhixin.com/articles/2025-12-07-4": "2025-12-07T12:23:35.699922",
     "https://www.jiqizhixin.com/articles/2025-12-07-3": "2025-12-07T12:23:35.699924",
@@ -467,7 +464,11 @@
     "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning": "2026-01-06T01:06:59.653803",
     "https://techcrunch.com/?p=3079726": "2026-01-06T01:06:59.653805",
     "https://techcrunch.com/?p=3079883": "2026-01-06T01:06:59.653807",
-    "695bfb09363a90f378f47673": "2026-01-06T01:06:59.653808"
+    "695bfb09363a90f378f47673": "2026-01-06T01:06:59.653808",
+    "https://www.qbitai.com/?p=366621": "2026-01-06T06:22:55.673798",
+    "https://www.qbitai.com/?p=366599": "2026-01-06T06:22:55.673810",
+    "https://techcrunch.com/?p=3080003": "2026-01-06T06:22:55.673812",
+    "https://www.qbitai.com/?p=366596": "2026-01-06T06:22:55.673814"
   },
-  "last_check": "2026-01-06T01:06:59.654560"
+  "last_check": "2026-01-06T06:22:55.674745"
 }
