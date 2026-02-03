@@ -1,11 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3079429": "2026-01-04T12:26:13.337176",
-    "https://www.jiqizhixin.com/articles/2026-01-04-12": "2026-01-04T12:26:13.337187",
-    "https://www.qbitai.com/?p=366531": "2026-01-04T12:26:13.337189",
-    "https://www.jiqizhixin.com/articles/2026-01-04-10": "2026-01-04T12:26:13.337191",
-    "https://www.jiqizhixin.com/articles/2026-01-04-9": "2026-01-04T12:26:13.337192",
-    "https://www.jiqizhixin.com/articles/2026-01-04-8": "2026-01-04T12:26:13.337193",
     "https://techcrunch.com/?p=3079509": "2026-01-04T18:19:30.038208",
     "https://techcrunch.com/?p=3079541": "2026-01-05T01:12:54.460669",
     "https://www.qbitai.com/?p=366547": "2026-01-05T06:27:56.638788",
@@ -578,7 +572,12 @@
     "https://www.jiqizhixin.com/articles/2026-02-03-5": "2026-02-03T06:40:11.594999",
     "https://www.jiqizhixin.com/articles/2026-02-03-4": "2026-02-03T06:40:11.595010",
     "https://www.jiqizhixin.com/articles/2026-02-03": "2026-02-03T06:40:11.595012",
-    "https://www.qbitai.com/?p=375614": "2026-02-03T06:40:11.595014"
+    "https://www.qbitai.com/?p=375614": "2026-02-03T06:40:11.595014",
+    "697ce830cb2a365d426669a5": "2026-02-03T12:40:20.684621",
+    "https://huggingface.co/blog/Photoroom/prx-part2": "2026-02-03T12:40:20.684631",
+    "https://www.jiqizhixin.com/articles/2026-02-03-7": "2026-02-03T12:40:20.684633",
+    "https://www.qbitai.com/?p=376029": "2026-02-03T12:40:20.684635",
+    "https://www.qbitai.com/?p=375825": "2026-02-03T12:40:20.684636"
   },
-  "last_check": "2026-02-03T06:40:11.595833"
+  "last_check": "2026-02-03T12:40:20.685479"
 }
