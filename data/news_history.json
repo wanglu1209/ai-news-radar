@@ -1,7 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3079547": "2026-01-05T18:22:19.899838",
-    "https://techcrunch.com/?p=3079326": "2026-01-05T18:22:19.899848",
     "https://techcrunch.com/?p=3079735": "2026-01-06T01:06:59.653791",
     "695bf9e5df89435b356af9f5": "2026-01-06T01:06:59.653801",
     "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning": "2026-01-06T01:06:59.653803",
@@ -587,7 +585,17 @@
     "https://www.artificialintelligence-news.com/?p=111994": "2026-02-04T12:40:27.687429",
     "https://techcrunch.com/?p=3089440": "2026-02-04T12:40:27.687431",
     "https://www.qbitai.com/?p=376355": "2026-02-04T12:40:27.687433",
-    "https://www.qbitai.com/?p=376356": "2026-02-04T12:40:27.687435"
+    "https://www.qbitai.com/?p=376356": "2026-02-04T12:40:27.687435",
+    "https://techcrunch.com/?p=3089496": "2026-02-04T18:38:17.945808",
+    "https://techcrunch.com/?p=3088892": "2026-02-04T18:38:17.945817",
+    "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/": "2026-02-04T18:38:17.945819",
+    "https://www.artificialintelligence-news.com/?p=112005": "2026-02-04T18:38:17.945821",
+    "https://techcrunch.com/?p=3089477": "2026-02-04T18:38:17.945823",
+    "69822a3948379122cdc58576": "2026-02-04T18:38:17.945824",
+    "https://huggingface.co/blog/nvidia/nemotron-colembed-v2": "2026-02-04T18:38:17.945826",
+    "https://techcrunch.com/?p=3089318": "2026-02-04T18:38:17.945830",
+    "https://www.technologyreview.com/?p=1131014": "2026-02-04T18:38:17.945832",
+    "https://techcrunch.com/?p=3089254": "2026-02-04T18:38:17.945834"
   },
-  "last_check": "2026-02-04T12:40:27.688452"
+  "last_check": "2026-02-04T18:38:17.946828"
 }
