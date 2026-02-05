@@ -1,11 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3079735": "2026-01-06T01:06:59.653791",
-    "695bf9e5df89435b356af9f5": "2026-01-06T01:06:59.653801",
-    "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning": "2026-01-06T01:06:59.653803",
-    "https://techcrunch.com/?p=3079726": "2026-01-06T01:06:59.653805",
-    "https://techcrunch.com/?p=3079883": "2026-01-06T01:06:59.653807",
-    "695bfb09363a90f378f47673": "2026-01-06T01:06:59.653808",
     "https://www.qbitai.com/?p=366621": "2026-01-06T06:22:55.673798",
     "https://www.qbitai.com/?p=366599": "2026-01-06T06:22:55.673810",
     "https://techcrunch.com/?p=3080003": "2026-01-06T06:22:55.673812",
@@ -595,7 +589,16 @@
     "https://huggingface.co/blog/nvidia/nemotron-colembed-v2": "2026-02-04T18:38:17.945826",
     "https://techcrunch.com/?p=3089318": "2026-02-04T18:38:17.945830",
     "https://www.technologyreview.com/?p=1131014": "2026-02-04T18:38:17.945832",
-    "https://techcrunch.com/?p=3089254": "2026-02-04T18:38:17.945834"
+    "https://techcrunch.com/?p=3089254": "2026-02-04T18:38:17.945834",
+    "https://techcrunch.com/?p=3089626": "2026-02-05T01:18:26.866004",
+    "https://techcrunch.com/?p=3089709": "2026-02-05T01:18:26.866015",
+    "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/": "2026-02-05T01:18:26.866017",
+    "https://techcrunch.com/?p=3089690": "2026-02-05T01:18:26.866019",
+    "https://techcrunch.com/?p=3089613": "2026-02-05T01:18:26.866020",
+    "https://techcrunch.com/?p=3089604": "2026-02-05T01:18:26.866022",
+    "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/": "2026-02-05T01:18:26.866023",
+    "https://techcrunch.com/?post_type=tc_video&p=3089607": "2026-02-05T01:18:26.866026",
+    "https://techcrunch.com/?post_type=tc_podcast&p=3089601": "2026-02-05T01:18:26.866028"
   },
-  "last_check": "2026-02-04T18:38:17.946828"
+  "last_check": "2026-02-05T01:18:26.867047"
 }
