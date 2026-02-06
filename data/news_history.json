@@ -1,13 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3080516": "2026-01-07T01:07:16.842800",
-    "https://techcrunch.com/?p=3080328": "2026-01-07T01:07:16.842838",
-    "695d30e7a225d53752746fb1": "2026-01-07T01:07:16.842842",
-    "https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b": "2026-01-07T01:07:16.842844",
-    "https://techcrunch.com/?p=3080465": "2026-01-07T01:07:16.842846",
-    "AjxwuLYvSCnf6KZMn": "2026-01-07T01:07:16.842848",
-    "https://techcrunch.com/?p=3080435": "2026-01-07T01:07:16.842850",
-    "https://techcrunch.com/?p=3080421": "2026-01-07T01:07:16.842853",
     "https://www.jiqizhixin.com/articles/2026-01-07-5": "2026-01-07T06:23:21.945166",
     "https://www.jiqizhixin.com/articles/2026-01-07-4": "2026-01-07T06:23:21.945177",
     "https://www.jiqizhixin.com/articles/2026-01-07-3": "2026-01-07T06:23:21.945179",
@@ -603,7 +595,14 @@
     "https://techcrunch.com/?p=3089914": "2026-02-05T18:38:46.911964",
     "https://www.qbitai.com/?p=376636": "2026-02-05T18:38:46.911968",
     "https://techcrunch.com/?p=3089899": "2026-02-05T18:38:46.911970",
-    "https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/": "2026-02-05T18:38:46.911972"
+    "https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/": "2026-02-05T18:38:46.911972",
+    "https://www.qbitai.com/?p=376774": "2026-02-06T01:18:19.666497",
+    "https://techcrunch.com/?p=3090231": "2026-02-06T01:18:19.666507",
+    "https://techcrunch.com/?p=3090181": "2026-02-06T01:18:19.666531",
+    "https://techcrunch.com/?p=3090209": "2026-02-06T01:18:19.666532",
+    "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/": "2026-02-06T01:18:19.666534",
+    "https://techcrunch.com/?p=3089705": "2026-02-06T01:18:19.666535",
+    "https://techcrunch.com/?p=3090041": "2026-02-06T01:18:19.666537"
   },
-  "last_check": "2026-02-05T18:38:46.913011"
+  "last_check": "2026-02-06T01:18:19.667629"
 }
