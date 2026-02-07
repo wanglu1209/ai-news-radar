@@ -1,9 +1,5 @@
 {
   "pushed_news": {
-    "https://www.artificialintelligence-news.com/?p=111522": "2026-01-08T12:30:36.960988",
-    "6940a61255ba708676bf1457": "2026-01-08T12:30:36.960999",
-    "https://www.artificialintelligence-news.com/?p=111519": "2026-01-08T12:30:36.961002",
-    "https://www.jiqizhixin.com/articles/2026-01-08-7": "2026-01-08T12:30:36.961004",
     "https://techcrunch.com/?p=3081258": "2026-01-08T18:19:33.181282",
     "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/": "2026-01-08T18:19:33.181291",
     "https://techcrunch.com/?post_type=tc_storyline&p=3079638": "2026-01-08T18:19:33.181293",
@@ -601,7 +597,12 @@
     "https://techcrunch.com/?p=3090484": "2026-02-07T01:16:52.591682",
     "https://techcrunch.com/?p=3090494": "2026-02-07T01:16:52.591684",
     "https://techcrunch.com/?p=3090755": "2026-02-07T06:32:55.230311",
-    "https://www.qbitai.com/?p=377529": "2026-02-07T06:32:55.230322"
+    "https://www.qbitai.com/?p=377529": "2026-02-07T06:32:55.230322",
+    "698608a1139043dd49143df0": "2026-02-07T12:30:38.455025",
+    "https://www.jiqizhixin.com/articles/2026-02-07-5": "2026-02-07T12:30:38.455036",
+    "69863fb687d616d0d134f697": "2026-02-07T12:30:38.455038",
+    "https://www.jiqizhixin.com/articles/2026-02-07-2": "2026-02-07T12:30:38.455040",
+    "https://www.qbitai.com/?p=377608": "2026-02-07T12:30:38.455041"
   },
-  "last_check": "2026-02-07T06:32:55.231279"
+  "last_check": "2026-02-07T12:30:38.455915"
 }
