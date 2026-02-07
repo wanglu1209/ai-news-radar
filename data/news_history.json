@@ -1,8 +1,5 @@
 {
   "pushed_news": {
-    "https://www.jiqizhixin.com/articles/2026-01-08-4": "2026-01-08T06:23:29.380304",
-    "https://www.qbitai.com/?p=367379": "2026-01-08T06:23:29.380316",
-    "https://techcrunch.com/?p=3081070": "2026-01-08T06:23:29.380318",
     "https://www.artificialintelligence-news.com/?p=111522": "2026-01-08T12:30:36.960988",
     "6940a61255ba708676bf1457": "2026-01-08T12:30:36.960999",
     "https://www.artificialintelligence-news.com/?p=111519": "2026-01-08T12:30:36.961002",
@@ -602,7 +599,9 @@
     "https://techcrunch.com/?p=3089908": "2026-02-06T18:37:52.486757",
     "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/": "2026-02-07T01:16:52.591671",
     "https://techcrunch.com/?p=3090484": "2026-02-07T01:16:52.591682",
-    "https://techcrunch.com/?p=3090494": "2026-02-07T01:16:52.591684"
+    "https://techcrunch.com/?p=3090494": "2026-02-07T01:16:52.591684",
+    "https://techcrunch.com/?p=3090755": "2026-02-07T06:32:55.230311",
+    "https://www.qbitai.com/?p=377529": "2026-02-07T06:32:55.230322"
   },
-  "last_check": "2026-02-07T01:16:52.592679"
+  "last_check": "2026-02-07T06:32:55.231279"
 }
