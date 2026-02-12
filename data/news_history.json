@@ -1,9 +1,5 @@
 {
   "pushed_news": {
-    "https://www.jiqizhixin.com/articles/2026-01-13-5": "2026-01-13T06:23:17.233677",
-    "https://www.qbitai.com/?p=369244": "2026-01-13T06:23:17.233688",
-    "https://techcrunch.com/?p=3081801": "2026-01-13T06:23:17.233690",
-    "https://www.jiqizhixin.com/articles/2026-01-13-3": "2026-01-13T06:23:17.233692",
     "https://techcrunch.com/?p=3082127": "2026-01-13T18:23:02.566092",
     "https://techcrunch.com/?p=3082248": "2026-01-13T18:23:02.566103",
     "https://techcrunch.com/?p=3082233": "2026-01-13T18:23:02.566105",
@@ -614,7 +610,11 @@
     "https://techcrunch.com/?p=3092207": "2026-02-12T01:24:08.524921",
     "https://techcrunch.com/?post_type=tc_podcast&p=3092162": "2026-02-12T01:24:08.524924",
     "https://techcrunch.com/?post_type=tc_video&p=3092215": "2026-02-12T01:24:08.524925",
-    "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/": "2026-02-12T01:24:08.524927"
+    "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/": "2026-02-12T01:24:08.524927",
+    "https://www.jiqizhixin.com/articles/2026-02-12-4": "2026-02-12T06:52:59.014631",
+    "https://www.jiqizhixin.com/articles/2026-02-12-3": "2026-02-12T06:52:59.014641",
+    "https://www.jiqizhixin.com/articles/2026-02-12-2": "2026-02-12T06:52:59.014643",
+    "https://www.jiqizhixin.com/articles/2026-02-12": "2026-02-12T06:52:59.014646"
   },
-  "last_check": "2026-02-12T01:24:08.525849"
+  "last_check": "2026-02-12T06:52:59.015694"
 }
