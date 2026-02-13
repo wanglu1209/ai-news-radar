@@ -1,10 +1,5 @@
 {
   "pushed_news": {
-    "https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/": "2026-01-14T01:09:37.133916",
-    "https://arstechnica.com/ai/2026/01/hegseth-wants-to-integrate-musks-grok-ai-into-military-networks-this-month/": "2026-01-14T01:09:37.133932",
-    "https://techcrunch.com/?p=3082319": "2026-01-14T01:09:37.133934",
-    "https://arstechnica.com/ai/2026/01/microsoft-vows-to-cover-full-power-costs-for-energy-hungry-ai-data-centers/": "2026-01-14T01:09:37.133936",
-    "https://techcrunch.com/?p=3082268": "2026-01-14T01:09:37.133938",
     "https://www.jiqizhixin.com/articles/2026-01-14-8": "2026-01-14T06:23:35.373718",
     "https://www.jiqizhixin.com/articles/2026-01-14-7": "2026-01-14T06:23:35.373729",
     "https://www.jiqizhixin.com/articles/2026-01-14-6": "2026-01-14T06:23:35.373731",
@@ -623,7 +618,16 @@
     "vjAM7F8vMZS7oRrrh": "2026-02-12T18:52:28.010173",
     "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/": "2026-02-12T18:52:28.010174",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/": "2026-02-12T18:52:28.010176",
-    "6983952a22bf8f05e4e3c13d": "2026-02-12T18:52:28.010178"
+    "6983952a22bf8f05e4e3c13d": "2026-02-12T18:52:28.010178",
+    "https://techcrunch.com/?p=3092700": "2026-02-13T01:26:31.264579",
+    "https://techcrunch.com/?p=3092703": "2026-02-13T01:26:31.264590",
+    "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/": "2026-02-13T01:26:31.264592",
+    "698ba3e7357c15b942accd54": "2026-02-13T01:26:31.264595",
+    "https://techcrunch.com/?p=3092509": "2026-02-13T01:26:31.264596",
+    "https://techcrunch.com/?p=3092627": "2026-02-13T01:26:31.264597",
+    "https://techcrunch.com/?p=3092578": "2026-02-13T01:26:31.264599",
+    "698a90a4fbb792360a1da892": "2026-02-13T01:26:31.264602",
+    "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/": "2026-02-13T01:26:31.264604"
   },
-  "last_check": "2026-02-12T18:52:28.011237"
+  "last_check": "2026-02-13T01:26:31.265646"
 }
