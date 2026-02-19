@@ -1,14 +1,5 @@
 {
   "pushed_news": {
-    "https://www.jiqizhixin.com/articles/2026-01-20-7": "2026-01-20T06:25:31.224736",
-    "https://www.qbitai.com/?p=370463": "2026-01-20T06:25:31.224746",
-    "https://www.jiqizhixin.com/articles/2026-01-20-4": "2026-01-20T06:25:31.224747",
-    "https://www.jiqizhixin.com/articles/2026-01-20-3": "2026-01-20T06:25:31.224749",
-    "https://huggingface.co/blog/microsoft/diff-attn-v2": "2026-01-20T06:25:31.224751",
-    "https://www.jiqizhixin.com/articles/2026-01-20-2": "2026-01-20T06:25:31.224752",
-    "https://www.qbitai.com/?p=370402": "2026-01-20T06:25:31.224754",
-    "https://www.jiqizhixin.com/articles/2026-01-20": "2026-01-20T06:25:31.224757",
-    "https://www.qbitai.com/?p=370375": "2026-01-20T06:25:31.224758",
     "695d905a622a5fef5397a0ad": "2026-01-20T12:32:56.858448",
     "692dd2c954bc86901c669564": "2026-01-20T12:32:56.858458",
     "https://www.jiqizhixin.com/articles/2026-01-20-12": "2026-01-20T12:32:56.858460",
@@ -621,7 +612,12 @@
     "https://techcrunch.com/?post_type=tc_video&p=3094123": "2026-02-19T01:23:37.495314",
     "https://techcrunch.com/?post_type=tc_podcast&p=3094010": "2026-02-19T01:23:37.495325",
     "698607fb8d12f90caa650ff8": "2026-02-19T01:23:37.495328",
-    "6995c8515366fbe3869b6b5b": "2026-02-19T01:23:37.495330"
+    "6995c8515366fbe3869b6b5b": "2026-02-19T01:23:37.495330",
+    "https://www.qbitai.com/?p=381415": "2026-02-19T06:51:16.523109",
+    "https://techcrunch.com/?p=3094276": "2026-02-19T06:51:16.523120",
+    "https://www.qbitai.com/?p=381301": "2026-02-19T06:51:16.523122",
+    "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/": "2026-02-19T06:51:16.523124",
+    "https://techcrunch.com/?p=3094103": "2026-02-19T06:51:16.523126"
   },
-  "last_check": "2026-02-19T01:23:37.496377"
+  "last_check": "2026-02-19T06:51:16.524175"
 }
