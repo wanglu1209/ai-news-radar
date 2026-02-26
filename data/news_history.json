@@ -1,15 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3086660": "2026-01-27T18:28:22.927579",
-    "https://www.technologyreview.com/?p=1131793": "2026-01-27T18:28:22.927592",
-    "https://techcrunch.com/?p=3086571": "2026-01-27T18:28:22.927594",
-    "https://techcrunch.com/?p=3086665": "2026-01-27T18:28:22.927597",
-    "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/": "2026-01-27T18:28:22.927599",
-    "https://www.artificialintelligence-news.com/?p=111880": "2026-01-27T18:28:22.927601",
-    "https://techcrunch.com/?p=3086581": "2026-01-27T18:28:22.927603",
-    "69783fc373242c9937907204": "2026-01-27T18:28:22.927607",
-    "https://techcrunch.com/?p=3086554": "2026-01-27T18:28:22.927610",
-    "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2": "2026-01-27T18:28:22.927613",
     "https://huggingface.co/blog/nvidia/nemotron-personas-brazil": "2026-01-28T01:08:17.119422",
     "https://techcrunch.com/?p=3086417": "2026-01-28T01:08:17.119433",
     "https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/": "2026-01-28T01:08:17.119435",
@@ -589,7 +579,17 @@
     "https://techcrunch.com/?p=3097173": "2026-02-26T06:50:37.144384",
     "699c9cc51ca956d4896d20f2": "2026-02-26T12:44:29.996443",
     "https://www.qbitai.com/?p=382732": "2026-02-26T12:44:29.996454",
-    "https://www.qbitai.com/?p=382682": "2026-02-26T12:44:29.996457"
+    "https://www.qbitai.com/?p=382682": "2026-02-26T12:44:29.996457",
+    "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/": "2026-02-26T18:41:05.506930",
+    "https://techcrunch.com/?p=3097312": "2026-02-26T18:41:05.506941",
+    "https://techcrunch.com/?p=3097429": "2026-02-26T18:41:05.506944",
+    "https://techcrunch.com/?p=3097324": "2026-02-26T18:41:05.506945",
+    "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/": "2026-02-26T18:41:05.506947",
+    "69a051a98867ace28ac81150": "2026-02-26T18:41:05.506948",
+    "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/": "2026-02-26T18:41:05.506950",
+    "https://www.technologyreview.com/?p=1133707": "2026-02-26T18:41:05.506953",
+    "https://techcrunch.com/?p=3097317": "2026-02-26T18:41:05.506955",
+    "https://techcrunch.com/?p=3097348": "2026-02-26T18:41:05.506956"
   },
-  "last_check": "2026-02-26T12:44:29.997422"
+  "last_check": "2026-02-26T18:41:05.507834"
 }
