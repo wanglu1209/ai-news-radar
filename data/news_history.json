@@ -1,7 +1,5 @@
 {
   "pushed_news": {
-    "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/": "2026-02-04T01:17:51.551369",
-    "69822a3b7c553e1f8e36ee8d": "2026-02-04T01:17:51.551379",
     "https://www.jiqizhixin.com/articles/2026-02-04-10": "2026-02-04T06:40:49.349819",
     "https://www.jiqizhixin.com/articles/2026-02-04-8": "2026-02-04T06:40:49.349829",
     "https://www.jiqizhixin.com/articles/2026-02-04-4": "2026-02-04T06:40:49.349832",
@@ -567,7 +565,13 @@
     "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/": "2026-03-05T19:10:24.687833",
     "https://techcrunch.com/?p=3099517": "2026-03-05T19:10:24.687836",
     "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms": "2026-03-05T19:10:24.687838",
-    "https://techcrunch.com/?p=3099367": "2026-03-05T19:10:24.687841"
+    "https://techcrunch.com/?p=3099367": "2026-03-05T19:10:24.687841",
+    "https://techcrunch.com/?p=3099874": "2026-03-06T01:23:30.105879",
+    "69a739695269f0572dce5ded": "2026-03-06T01:23:30.105890",
+    "69a5fc71a62a6c5112117250": "2026-03-06T01:23:30.105893",
+    "https://techcrunch.com/?p=3099671": "2026-03-06T01:23:30.105895",
+    "69a86c9fb7dbd461fdfd08dd": "2026-03-06T01:23:30.105896",
+    "https://techcrunch.com/?p=3099756": "2026-03-06T01:23:30.105898"
   },
-  "last_check": "2026-03-05T19:10:24.688930"
+  "last_check": "2026-03-06T01:23:30.106923"
 }
