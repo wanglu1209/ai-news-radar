@@ -1,10 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3091400": "2026-02-10T06:56:16.972428",
-    "698ab368c46327732f7f77f5": "2026-02-10T06:56:16.972439",
-    "https://www.jiqizhixin.com/articles/2026-02-10-3": "2026-02-10T06:56:16.972441",
-    "https://www.qbitai.com/?p=378205": "2026-02-10T06:56:16.972443",
-    "https://www.jiqizhixin.com/articles/2026-02-05-9": "2026-02-10T06:56:16.972444",
     "https://www.artificialintelligence-news.com/?p=112128": "2026-02-10T12:55:07.949174",
     "https://www.jiqizhixin.com/articles/2026-02-10-11": "2026-02-10T12:55:07.949183",
     "https://www.jiqizhixin.com/articles/2026-02-10-10": "2026-02-10T12:55:07.949185",
@@ -552,7 +547,11 @@
     "69b17e6d76ee57182b10205d": "2026-03-12T01:16:30.695221",
     "https://www.qbitai.com/?p=386615": "2026-03-12T06:43:28.319365",
     "https://www.qbitai.com/?p=386572": "2026-03-12T06:43:28.319378",
-    "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench": "2026-03-12T06:43:28.319382"
+    "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench": "2026-03-12T06:43:28.319382",
+    "https://techcrunch.com/?p=3101561": "2026-03-12T12:40:04.511351",
+    "69b1cfea1ad844cfc274660f": "2026-03-12T12:40:04.511363",
+    "https://techcrunch.com/?p=3101750": "2026-03-12T12:40:04.511365",
+    "https://www.artificialintelligence-news.com/?p=112611": "2026-03-12T12:40:04.511367"
   },
-  "last_check": "2026-03-12T06:43:28.320571"
+  "last_check": "2026-03-12T12:40:04.512222"
 }
