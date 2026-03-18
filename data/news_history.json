@@ -1,10 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3093187": "2026-02-16T01:22:38.340191",
-    "https://techcrunch.com/?p=3093252": "2026-02-16T01:22:38.340202",
-    "https://techcrunch.com/?p=3093271": "2026-02-16T01:22:38.340204",
-    "https://techcrunch.com/?p=3093266": "2026-02-16T01:22:38.340206",
-    "https://techcrunch.com/?p=3093256": "2026-02-16T01:22:38.340208",
     "https://www.jiqizhixin.com/articles/2026-02-16-2": "2026-02-16T06:54:50.803368",
     "https://www.jiqizhixin.com/articles/2026-02-16": "2026-02-16T06:54:50.803380",
     "https://www.artificialintelligence-news.com/?p=112237": "2026-02-16T12:43:20.940218",
@@ -500,7 +495,12 @@
     "https://techcrunch.com/?p=3103207": "2026-03-17T18:51:19.964683",
     "https://techcrunch.com/?p=3103203": "2026-03-17T18:51:19.964687",
     "https://techcrunch.com/?p=3102797": "2026-03-17T18:51:19.964689",
-    "https://techcrunch.com/?p=3102749": "2026-03-17T18:51:19.964691"
+    "https://techcrunch.com/?p=3102749": "2026-03-17T18:51:19.964691",
+    "69b9ab33ff58f8e90ded9eff": "2026-03-18T01:25:41.295210",
+    "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b": "2026-03-18T01:25:41.295221",
+    "https://www.technologyreview.com/?p=1134351": "2026-03-18T01:25:41.295223",
+    "https://techcrunch.com/?p=3103168": "2026-03-18T01:25:41.295225",
+    "https://techcrunch.com/?p=3103004": "2026-03-18T01:25:41.295227"
   },
-  "last_check": "2026-03-17T18:51:19.965623"
+  "last_check": "2026-03-18T01:25:41.296212"
 }
