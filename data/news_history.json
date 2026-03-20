@@ -1,11 +1,5 @@
 {
   "pushed_news": {
-    "https://www.artificialintelligence-news.com/?p=112281": "2026-02-18T12:42:57.114234",
-    "69865e85c3efe03ee31a6737": "2026-02-18T12:42:57.114244",
-    "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/": "2026-02-18T12:42:57.114246",
-    "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/": "2026-02-18T12:42:57.114247",
-    "https://www.qbitai.com/?p=381081": "2026-02-18T12:42:57.114249",
-    "https://www.qbitai.com/?p=381037": "2026-02-18T12:42:57.114251",
     "https://techcrunch.com/?p=3094024": "2026-02-18T18:41:43.270534",
     "https://techcrunch.com/?p=3093950": "2026-02-18T18:41:43.270544",
     "https://huggingface.co/blog/ibm-research/itbenchandmast": "2026-02-18T18:41:43.270546",
@@ -508,7 +502,12 @@
     "https://techcrunch.com/?p=3088174": "2026-03-20T12:39:58.304301",
     "69b9d25d7f83f721f6c308bf": "2026-03-20T12:39:58.304302",
     "69bb15c4e18db3998f1759ab": "2026-03-20T12:39:58.304304",
-    "https://www.qbitai.com/?p=390235": "2026-03-20T12:39:58.304305"
+    "https://www.qbitai.com/?p=390235": "2026-03-20T12:39:58.304305",
+    "https://huggingface.co/blog/nvidia/nemotron-3-content-safety": "2026-03-20T18:36:43.197200",
+    "https://techcrunch.com/?p=3104367": "2026-03-20T18:36:43.197212",
+    "https://techcrunch.com/?p=3104374": "2026-03-20T18:36:43.197214",
+    "69b83cce85df0f771cd527a4": "2026-03-20T18:36:43.197216",
+    "https://huggingface.co/blog/ibm-granite/granite-libraries": "2026-03-20T18:36:43.197217"
   },
-  "last_check": "2026-03-20T12:39:58.305237"
+  "last_check": "2026-03-20T18:36:43.198174"
 }
