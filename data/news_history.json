@@ -1,11 +1,5 @@
 {
   "pushed_news": {
-    "https://www.jiqizhixin.com/articles/2026-02-19-2": "2026-02-19T12:44:04.389181",
-    "https://www.jiqizhixin.com/articles/2026-02-19": "2026-02-19T12:44:04.389192",
-    "https://techcrunch.com/?p=3094292": "2026-02-19T12:44:04.389194",
-    "698d1356b397b1ead5556c3e": "2026-02-19T12:44:04.389197",
-    "https://www.qbitai.com/?p=381435": "2026-02-19T12:44:04.389198",
-    "https://www.artificialintelligence-news.com/?p=112293": "2026-02-19T12:44:04.389200",
     "https://huggingface.co/blog/unsloth-jobs": "2026-02-19T18:41:18.145942",
     "https://techcrunch.com/?p=3094494": "2026-02-19T18:41:18.145952",
     "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/": "2026-02-19T18:41:18.145954",
@@ -498,7 +492,8 @@
     "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune": "2026-03-21T01:16:14.712585",
     "https://techcrunch.com/?p=3104644": "2026-03-21T06:33:30.745024",
     "69bd8fdf426abb20ef0bb099": "2026-03-21T12:31:24.959130",
-    "https://www.qbitai.com/?p=390924": "2026-03-21T12:31:24.959139"
+    "https://www.qbitai.com/?p=390924": "2026-03-21T12:31:24.959139",
+    "https://techcrunch.com/?p=3104563": "2026-03-21T18:25:51.431880"
   },
-  "last_check": "2026-03-21T12:31:24.959966"
+  "last_check": "2026-03-21T18:25:51.432710"
 }
