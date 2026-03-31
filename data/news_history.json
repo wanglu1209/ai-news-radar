@@ -1,7 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3098313": "2026-03-01T18:22:46.962487",
-    "https://techcrunch.com/?p=3098314": "2026-03-01T18:22:46.962498",
     "https://www.qbitai.com/?p=383016": "2026-03-02T06:46:39.544819",
     "https://www.qbitai.com/?p=382971": "2026-03-02T06:46:39.544830",
     "https://www.qbitai.com/?p=383235": "2026-03-02T12:38:32.793444",
@@ -462,7 +460,15 @@
     "https://www.qbitai.com/?p=393645": "2026-03-31T07:03:57.014261",
     "https://www.qbitai.com/?p=394011": "2026-03-31T12:58:45.998184",
     "https://www.qbitai.com/?p=393984": "2026-03-31T12:58:45.998193",
-    "https://www.qbitai.com/?p=393941": "2026-03-31T12:58:45.998196"
+    "https://www.qbitai.com/?p=393941": "2026-03-31T12:58:45.998196",
+    "https://techcrunch.com/?p=3107971": "2026-03-31T18:50:53.745050",
+    "https://www.artificialintelligence-news.com/?p=112821": "2026-03-31T18:50:53.745060",
+    "https://huggingface.co/blog/ibm-granite/granite-4-vision": "2026-03-31T18:50:53.745061",
+    "https://techcrunch.com/?p=3107632": "2026-03-31T18:50:53.745063",
+    "https://www.technologyreview.com/?p=1134762": "2026-03-31T18:50:53.745065",
+    "https://techcrunch.com/?p=3107677": "2026-03-31T18:50:53.745066",
+    "https://techcrunch.com/?p=3106543": "2026-03-31T18:50:53.745068",
+    "69bc6850b2a7b7deee0cf867": "2026-03-31T18:50:53.745071"
   },
-  "last_check": "2026-03-31T12:58:45.999070"
+  "last_check": "2026-03-31T18:50:53.746018"
 }
