@@ -1,11 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3098923": "2026-03-03T18:37:33.318884",
-    "https://huggingface.co/blog/Photoroom/prx-part3": "2026-03-03T18:37:33.318894",
-    "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/": "2026-03-03T18:37:33.318896",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/": "2026-03-03T18:37:33.318898",
-    "https://www.artificialintelligence-news.com/?p=112490": "2026-03-03T18:37:33.318900",
-    "https://www.artificialintelligence-news.com/?p=112486": "2026-03-03T18:37:33.318901",
     "https://techcrunch.com/?p=3099113": "2026-03-04T01:18:40.859813",
     "https://techcrunch.com/?p=3099065": "2026-03-04T01:18:40.859823",
     "https://techcrunch.com/?p=3098987": "2026-03-04T01:18:40.859826",
@@ -474,7 +468,16 @@
     "https://www.artificialintelligence-news.com/?p=112849": "2026-04-02T12:54:20.269550",
     "https://www.qbitai.com/?p=395155": "2026-04-02T12:54:20.269552",
     "https://www.qbitai.com/?p=395091": "2026-04-02T12:54:20.269553",
-    "https://www.qbitai.com/?p=394704": "2026-04-02T12:54:20.269556"
+    "https://www.qbitai.com/?p=394704": "2026-04-02T12:54:20.269556",
+    "69cc083c6cab226b3ec29afe": "2026-04-02T18:44:27.333367",
+    "69cacfb775c0a81462c59756": "2026-04-02T18:44:27.333379",
+    "https://techcrunch.com/?p=3108825": "2026-04-02T18:44:27.333381",
+    "https://www.artificialintelligence-news.com/?p=112876": "2026-04-02T18:44:27.333382",
+    "https://techcrunch.com/?p=3108782": "2026-04-02T18:44:27.333384",
+    "69cd63e155a470c0d5985203": "2026-04-02T18:44:27.333386",
+    "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/": "2026-04-02T18:44:27.333387",
+    "https://www.artificialintelligence-news.com/?p=112873": "2026-04-02T18:44:27.333390",
+    "https://www.artificialintelligence-news.com/?p=112857": "2026-04-02T18:44:27.333392"
   },
-  "last_check": "2026-04-02T12:54:20.270446"
+  "last_check": "2026-04-02T18:44:27.334357"
 }
