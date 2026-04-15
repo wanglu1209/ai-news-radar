@@ -1,12 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3102218": "2026-03-16T18:51:21.330604",
-    "https://techcrunch.com/?p=3102735": "2026-03-16T18:51:21.330614",
-    "https://techcrunch.com/?p=3102759": "2026-03-16T18:51:21.330616",
-    "https://techcrunch.com/?p=3102753": "2026-03-16T18:51:21.330618",
-    "https://www.technologyreview.com/?p=1134315": "2026-03-16T18:51:21.330620",
-    "https://www.artificialintelligence-news.com/?p=112692": "2026-03-16T18:51:21.330622",
-    "https://www.technologyreview.com/?p=1133979": "2026-03-16T18:51:21.330623",
     "https://techcrunch.com/?p=3103052": "2026-03-17T01:22:05.844586",
     "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics": "2026-03-17T01:22:05.844592",
     "https://techcrunch.com/?p=3103020": "2026-03-17T01:22:05.844594",
@@ -450,7 +443,17 @@
     "https://huggingface.co/blog/Hcompany/holotab": "2026-04-15T13:05:27.716589",
     "https://www.qbitai.com/?p=401507": "2026-04-15T13:05:27.716592",
     "https://www.qbitai.com/?p=401484": "2026-04-15T13:05:27.716594",
-    "https://www.qbitai.com/?p=401479": "2026-04-15T13:05:27.716596"
+    "https://www.qbitai.com/?p=401479": "2026-04-15T13:05:27.716596",
+    "https://techcrunch.com/?p=3112847": "2026-04-15T19:03:13.034007",
+    "https://techcrunch.com/?p=3112726": "2026-04-15T19:03:13.034017",
+    "https://techcrunch.com/?p=3112799": "2026-04-15T19:03:13.034019",
+    "https://techcrunch.com/?p=3112765": "2026-04-15T19:03:13.034021",
+    "https://techcrunch.com/?p=3112810": "2026-04-15T19:03:13.034022",
+    "69dd36a7c9b6deafe3260d34": "2026-04-15T19:03:13.034024",
+    "https://techcrunch.com/?post_type=tc_podcast&p=3112804": "2026-04-15T19:03:13.034026",
+    "https://techcrunch.com/?p=3112723": "2026-04-15T19:03:13.034029",
+    "https://www.artificialintelligence-news.com/?p=113020": "2026-04-15T19:03:13.034031",
+    "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/": "2026-04-15T19:03:13.034032"
   },
-  "last_check": "2026-04-15T13:05:27.717552"
+  "last_check": "2026-04-15T19:03:13.034926"
 }
