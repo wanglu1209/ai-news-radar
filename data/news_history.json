@@ -1,10 +1,5 @@
 {
   "pushed_news": {
-    "69b9ab33ff58f8e90ded9eff": "2026-03-18T01:25:41.295210",
-    "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b": "2026-03-18T01:25:41.295221",
-    "https://www.technologyreview.com/?p=1134351": "2026-03-18T01:25:41.295223",
-    "https://techcrunch.com/?p=3103168": "2026-03-18T01:25:41.295225",
-    "https://techcrunch.com/?p=3103004": "2026-03-18T01:25:41.295227",
     "https://www.qbitai.com/?p=388959": "2026-03-18T06:53:33.685831",
     "https://www.qbitai.com/?p=388972": "2026-03-18T12:52:24.594452",
     "69b9a94a8332a5b66668179d": "2026-03-18T18:50:12.541220",
@@ -452,7 +447,11 @@
     "https://techcrunch.com/?p=3113071": "2026-04-16T19:01:21.680618",
     "https://techcrunch.com/?p=3113133": "2026-04-16T19:01:21.680621",
     "https://techcrunch.com/?p=3112875": "2026-04-16T19:01:21.680623",
-    "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/": "2026-04-16T19:01:21.680625"
+    "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/": "2026-04-16T19:01:21.680625",
+    "https://techcrunch.com/?p=3113506": "2026-04-17T01:51:34.070431",
+    "https://techcrunch.com/?p=3113490": "2026-04-17T01:51:34.070444",
+    "https://techcrunch.com/?p=3113423": "2026-04-17T01:51:34.070447",
+    "https://techcrunch.com/?p=3113359": "2026-04-17T01:51:34.070449"
   },
-  "last_check": "2026-04-16T19:01:21.681390"
+  "last_check": "2026-04-17T01:51:34.071404"
 }
