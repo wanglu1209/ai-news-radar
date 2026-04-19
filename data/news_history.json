@@ -1,10 +1,5 @@
 {
   "pushed_news": {
-    "https://huggingface.co/blog/nvidia/nemotron-3-content-safety": "2026-03-20T18:36:43.197200",
-    "https://techcrunch.com/?p=3104367": "2026-03-20T18:36:43.197212",
-    "https://techcrunch.com/?p=3104374": "2026-03-20T18:36:43.197214",
-    "69b83cce85df0f771cd527a4": "2026-03-20T18:36:43.197216",
-    "https://huggingface.co/blog/ibm-granite/granite-libraries": "2026-03-20T18:36:43.197217",
     "69bdd2b0c2b333785bb099ea": "2026-03-21T01:16:14.712566",
     "69bd4f90fcdccbf431ec9595": "2026-03-21T01:16:14.712577",
     "https://techcrunch.com/?p=3104590": "2026-03-21T01:16:14.712579",
@@ -431,7 +426,8 @@
     "https://techcrunch.com/?p=3113812": "2026-04-18T18:36:04.615643",
     "https://www.qbitai.com/?p=403210": "2026-04-19T07:08:34.041371",
     "https://www.qbitai.com/?p=403515": "2026-04-19T12:42:04.061449",
-    "https://www.qbitai.com/?p=403505": "2026-04-19T12:42:04.061458"
+    "https://www.qbitai.com/?p=403505": "2026-04-19T12:42:04.061458",
+    "https://techcrunch.com/?p=3113818": "2026-04-19T18:36:52.258710"
   },
-  "last_check": "2026-04-19T12:42:04.062141"
+  "last_check": "2026-04-19T18:36:52.259515"
 }
