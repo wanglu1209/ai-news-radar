@@ -1,12 +1,5 @@
 {
   "pushed_news": {
-    "69bdd2b0c2b333785bb099ea": "2026-03-21T01:16:14.712566",
-    "69bd4f90fcdccbf431ec9595": "2026-03-21T01:16:14.712577",
-    "https://techcrunch.com/?p=3104590": "2026-03-21T01:16:14.712579",
-    "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/": "2026-03-21T01:16:14.712580",
-    "https://techcrunch.com/?post_type=tc_video&p=3104584": "2026-03-21T01:16:14.712582",
-    "https://techcrunch.com/?post_type=tc_podcast&p=3104544": "2026-03-21T01:16:14.712584",
-    "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune": "2026-03-21T01:16:14.712585",
     "https://techcrunch.com/?p=3104644": "2026-03-21T06:33:30.745024",
     "69bd8fdf426abb20ef0bb099": "2026-03-21T12:31:24.959130",
     "https://www.qbitai.com/?p=390924": "2026-03-21T12:31:24.959139",
@@ -427,7 +420,8 @@
     "https://www.qbitai.com/?p=403210": "2026-04-19T07:08:34.041371",
     "https://www.qbitai.com/?p=403515": "2026-04-19T12:42:04.061449",
     "https://www.qbitai.com/?p=403505": "2026-04-19T12:42:04.061458",
-    "https://techcrunch.com/?p=3113818": "2026-04-19T18:36:52.258710"
+    "https://techcrunch.com/?p=3113818": "2026-04-19T18:36:52.258710",
+    "https://techcrunch.com/?p=3114050": "2026-04-20T01:57:14.270620"
   },
-  "last_check": "2026-04-19T18:36:52.259515"
+  "last_check": "2026-04-20T01:57:14.271262"
 }
