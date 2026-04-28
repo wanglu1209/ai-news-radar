@@ -1,7 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3107020": "2026-03-29T01:45:16.599920",
-    "https://techcrunch.com/?p=3107363": "2026-03-29T01:45:16.599928",
     "https://www.qbitai.com/?p=393064": "2026-03-29T06:55:02.274195",
     "https://www.qbitai.com/?p=393045": "2026-03-29T06:55:02.274203",
     "https://www.qbitai.com/?p=392996": "2026-03-29T06:55:02.274205",
@@ -457,7 +455,11 @@
     "https://techcrunch.com/?p=3116624": "2026-04-27T19:06:07.515947",
     "https://www.technologyreview.com/?p=1136456": "2026-04-27T19:06:07.515949",
     "https://techcrunch.com/?p=3116570": "2026-04-27T19:06:07.515951",
-    "69eb83e36481c47bff8e3c89": "2026-04-27T19:06:07.515953"
+    "69eb83e36481c47bff8e3c89": "2026-04-27T19:06:07.515953",
+    "69efc4030938ed4c97342f7c": "2026-04-28T02:08:01.325878",
+    "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging": "2026-04-28T02:08:01.325884",
+    "https://www.technologyreview.com/?p=1136466": "2026-04-28T02:08:01.325885",
+    "69efb83a99344a765a91f679": "2026-04-28T02:08:01.325887"
   },
-  "last_check": "2026-04-27T19:06:07.516815"
+  "last_check": "2026-04-28T02:08:01.326721"
 }
