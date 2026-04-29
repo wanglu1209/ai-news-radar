@@ -1,13 +1,5 @@
 {
   "pushed_news": {
-    "https://www.technologyreview.com/?p=1134795": "2026-03-30T18:49:40.480050",
-    "https://www.artificialintelligence-news.com/?p=112817": "2026-03-30T18:49:40.480060",
-    "https://www.technologyreview.com/?p=1134881": "2026-03-30T18:49:40.480062",
-    "https://techcrunch.com/?p=3105222": "2026-03-30T18:49:40.480064",
-    "https://www.qbitai.com/?p=393460": "2026-03-30T18:49:40.480065",
-    "https://www.artificialintelligence-news.com/?p=112814": "2026-03-30T18:49:40.480066",
-    "https://techcrunch.com/?p=3107417": "2026-03-30T18:49:40.480068",
-    "https://techcrunch.com/?p=3107196": "2026-03-30T18:49:40.480070",
     "https://techcrunch.com/?p=3107695": "2026-03-31T01:44:52.247198",
     "https://techcrunch.com/?p=3107773": "2026-03-31T01:44:52.247208",
     "https://techcrunch.com/?p=3107654": "2026-03-31T01:44:52.247211",
@@ -466,7 +458,15 @@
     "69cafcc56dd94342bce0ed8e": "2026-04-29T13:27:03.116661",
     "https://techcrunch.com/?p=3117209": "2026-04-29T13:27:03.116663",
     "https://www.artificialintelligence-news.com/?p=113170": "2026-04-29T13:27:03.116665",
-    "69ea1d45ace51dfd0585df99": "2026-04-29T13:27:03.116666"
+    "69ea1d45ace51dfd0585df99": "2026-04-29T13:27:03.116666",
+    "https://techcrunch.com/?post_type=tc_podcast&p=3117569": "2026-04-29T19:12:07.285915",
+    "https://techcrunch.com/?p=3117520": "2026-04-29T19:12:07.285926",
+    "69efc326560213fabd62ebe0": "2026-04-29T19:12:07.285928",
+    "https://huggingface.co/blog/evaleval/eval-costs-bottleneck": "2026-04-29T19:12:07.285929",
+    "https://techcrunch.com/?p=3117456": "2026-04-29T19:12:07.285931",
+    "https://techcrunch.com/?p=3117452": "2026-04-29T19:12:07.285932",
+    "https://huggingface.co/blog/ibm-granite/granite-4-1": "2026-04-29T19:12:07.285934",
+    "https://www.artificialintelligence-news.com/?p=113184": "2026-04-29T19:12:07.285937"
   },
-  "last_check": "2026-04-29T13:27:03.117590"
+  "last_check": "2026-04-29T19:12:07.286819"
 }
