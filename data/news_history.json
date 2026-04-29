@@ -1,15 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3107422": "2026-03-30T12:59:47.821492",
-    "https://techcrunch.com/?p=3107381": "2026-03-30T12:59:47.821502",
-    "https://www.artificialintelligence-news.com/?p=112808": "2026-03-30T12:59:47.821504",
-    "https://www.artificialintelligence-news.com/?p=112804": "2026-03-30T12:59:47.821506",
-    "https://www.artificialintelligence-news.com/?p=112789": "2026-03-30T12:59:47.821507",
-    "https://techcrunch.com/?p=3107081": "2026-03-30T12:59:47.821509",
-    "https://www.artificialintelligence-news.com/?p=112785": "2026-03-30T12:59:47.821510",
-    "https://www.qbitai.com/?p=393395": "2026-03-30T12:59:47.821513",
-    "https://www.qbitai.com/?p=393353": "2026-03-30T12:59:47.821515",
-    "https://www.qbitai.com/?p=393344": "2026-03-30T12:59:47.821517",
     "https://www.technologyreview.com/?p=1134795": "2026-03-30T18:49:40.480050",
     "https://www.artificialintelligence-news.com/?p=112817": "2026-03-30T18:49:40.480060",
     "https://www.technologyreview.com/?p=1134881": "2026-03-30T18:49:40.480062",
@@ -469,7 +459,14 @@
     "https://www.qbitai.com/?p=410791": "2026-04-29T08:03:05.480785",
     "https://www.qbitai.com/?p=410738": "2026-04-29T08:03:05.480787",
     "https://www.qbitai.com/?p=410772": "2026-04-29T08:03:05.480790",
-    "https://www.qbitai.com/?p=410653": "2026-04-29T08:03:05.480791"
+    "https://www.qbitai.com/?p=410653": "2026-04-29T08:03:05.480791",
+    "https://techcrunch.com/?p=3117341": "2026-04-29T13:27:03.116647",
+    "https://techcrunch.com/?p=3117104": "2026-04-29T13:27:03.116658",
+    "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/": "2026-04-29T13:27:03.116660",
+    "69cafcc56dd94342bce0ed8e": "2026-04-29T13:27:03.116661",
+    "https://techcrunch.com/?p=3117209": "2026-04-29T13:27:03.116663",
+    "https://www.artificialintelligence-news.com/?p=113170": "2026-04-29T13:27:03.116665",
+    "69ea1d45ace51dfd0585df99": "2026-04-29T13:27:03.116666"
   },
-  "last_check": "2026-04-29T08:03:05.481708"
+  "last_check": "2026-04-29T13:27:03.117590"
 }
