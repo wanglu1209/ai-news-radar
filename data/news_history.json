@@ -1,10 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3109661": "2026-04-06T18:45:32.267669",
-    "https://www.technologyreview.com/?p=1135187": "2026-04-06T18:45:32.267680",
-    "https://techcrunch.com/?p=3109575": "2026-04-06T18:45:32.267682",
-    "https://www.qbitai.com/?p=396863": "2026-04-06T18:45:32.267684",
-    "https://techcrunch.com/?p=3109153": "2026-04-06T18:45:32.267686",
     "https://techcrunch.com/?p=3109755": "2026-04-07T01:45:25.630858",
     "https://www.qbitai.com/?p=396958": "2026-04-07T07:05:57.107954",
     "https://techcrunch.com/?p=3109837": "2026-04-07T07:05:57.107965",
@@ -474,7 +469,17 @@
     "https://www.qbitai.com/?p=413296": "2026-05-06T13:48:44.737075",
     "69fa1c978e34af6f68878e38": "2026-05-06T13:48:44.737077",
     "https://www.qbitai.com/?p=413264": "2026-05-06T13:48:44.737079",
-    "https://www.qbitai.com/?p=413265": "2026-05-06T13:48:44.737080"
+    "https://www.qbitai.com/?p=413265": "2026-05-06T13:48:44.737080",
+    "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections": "2026-05-06T19:25:15.097315",
+    "69fb74e4f906ccf607352674": "2026-05-06T19:25:15.097325",
+    "https://techcrunch.com/?p=3119715": "2026-05-06T19:25:15.097327",
+    "69f8d95d8d8a2d12c010319e": "2026-05-06T19:25:15.097328",
+    "https://techcrunch.com/?p=3119749": "2026-05-06T19:25:15.097330",
+    "69fb4bf6385c877c8a520d2c": "2026-05-06T19:25:15.097331",
+    "https://blog.google/products-and-platforms/products/search/gardening-tips/": "2026-05-06T19:25:15.097333",
+    "https://techcrunch.com/?p=3119669": "2026-05-06T19:25:15.097336",
+    "69fa0baec827f546ccf61407": "2026-05-06T19:25:15.097338",
+    "https://techcrunch.com/?p=3119609": "2026-05-06T19:25:15.097340"
   },
-  "last_check": "2026-05-06T13:48:44.738053"
+  "last_check": "2026-05-06T19:25:15.098192"
 }
