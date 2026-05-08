@@ -1,15 +1,5 @@
 {
   "pushed_news": {
-    "69d68d6e383b6979c9a47bea": "2026-04-08T19:04:57.272497",
-    "https://techcrunch.com/?p=3110562": "2026-04-08T19:04:57.272503",
-    "69d4368dc4071a92611c33b8": "2026-04-08T19:04:57.272504",
-    "69d578a3cbcb6388062ece71": "2026-04-08T19:04:57.272505",
-    "69d43bac139f7422aa5fed4d": "2026-04-08T19:04:57.272507",
-    "https://techcrunch.com/?p=3110416": "2026-04-08T19:04:57.272508",
-    "https://techcrunch.com/?p=3110429": "2026-04-08T19:04:57.272509",
-    "https://techcrunch.com/?p=3110335": "2026-04-08T19:04:57.272512",
-    "https://huggingface.co/blog/ibm-research/altk-evolve": "2026-04-08T19:04:57.272514",
-    "https://www.qbitai.com/?p=398001": "2026-04-08T19:04:57.272515",
     "69ce9a3e2b790324f16d580c": "2026-04-09T01:25:06.560269",
     "https://techcrunch.com/?p=3110530": "2026-04-09T01:25:06.560280",
     "https://techcrunch.com/?p=3110560": "2026-04-09T01:25:06.560282",
@@ -486,7 +476,13 @@
     "https://www.qbitai.com/?p=414141": "2026-05-08T07:18:25.874937",
     "https://www.qbitai.com/?p=414125": "2026-05-08T07:18:25.874938",
     "69f8abb846c3761927792a7c": "2026-05-08T13:13:25.046320",
-    "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa": "2026-05-08T13:13:25.046333"
+    "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa": "2026-05-08T13:13:25.046333",
+    "https://techcrunch.com/?p=3120740": "2026-05-08T19:06:10.764347",
+    "https://huggingface.co/blog/allenai/emo": "2026-05-08T19:06:10.764367",
+    "https://techcrunch.com/?post_type=tc_podcast&p=3120755": "2026-05-08T19:06:10.764370",
+    "69fb88738bf756131f7c45e4": "2026-05-08T19:06:10.764372",
+    "69fa41b42b14cb75633b7d13": "2026-05-08T19:06:10.764373",
+    "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/": "2026-05-08T19:06:10.764375"
   },
-  "last_check": "2026-05-08T13:13:25.047314"
+  "last_check": "2026-05-08T19:06:10.765245"
 }
