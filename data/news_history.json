@@ -1,8 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3115599": "2026-04-23T01:55:32.015095",
-    "https://techcrunch.com/?p=3115439": "2026-04-23T01:55:32.015109",
-    "https://techcrunch.com/?p=3115489": "2026-04-23T01:55:32.015112",
     "https://www.qbitai.com/?p=405358": "2026-04-23T07:24:11.013954",
     "https://techcrunch.com/?p=3115545": "2026-04-23T07:24:11.013966",
     "https://www.artificialintelligence-news.com/?p=113129": "2026-04-23T13:06:50.614100",
@@ -485,7 +482,11 @@
     "https://techcrunch.com/?p=3125116": "2026-05-22T19:29:08.222914",
     "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale": "2026-05-22T19:29:08.222916",
     "6a0f2e008910d0bdf1e57beb": "2026-05-22T19:29:08.222917",
-    "https://techcrunch.com/?post_type=tc_video&p=3125550": "2026-05-22T19:29:08.222918"
+    "https://techcrunch.com/?post_type=tc_video&p=3125550": "2026-05-22T19:29:08.222918",
+    "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion": "2026-05-23T02:13:32.786703",
+    "https://techcrunch.com/?p=3125679": "2026-05-23T02:13:32.786712",
+    "https://techcrunch.com/?p=3125544": "2026-05-23T02:13:32.786714",
+    "https://techcrunch.com/?p=3125155": "2026-05-23T02:13:32.786716"
   },
-  "last_check": "2026-05-22T19:29:08.223599"
+  "last_check": "2026-05-23T02:13:32.787640"
 }
