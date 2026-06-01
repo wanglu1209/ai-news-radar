@@ -1,6 +1,5 @@
 {
   "pushed_news": {
-    "69f4e545acee534df6ede0bc": "2026-05-02T12:51:40.093685",
     "https://techcrunch.com/?p=3076350": "2026-05-02T18:45:06.762681",
     "https://techcrunch.com/?p=3118619": "2026-05-03T02:06:23.515536",
     "https://www.qbitai.com/?p=412080": "2026-05-03T12:51:55.570648",
@@ -444,7 +443,12 @@
     "https://www.qbitai.com/?p=427332": "2026-06-01T11:12:13.375931",
     "https://www.qbitai.com/?p=427238": "2026-06-01T11:12:13.375934",
     "https://www.qbitai.com/?p=427141": "2026-06-01T11:12:13.375935",
-    "https://www.qbitai.com/?p=427142": "2026-06-01T11:12:13.375938"
+    "https://www.qbitai.com/?p=427142": "2026-06-01T11:12:13.375938",
+    "https://techcrunch.com/?p=3128178": "2026-06-01T17:20:49.670301",
+    "https://techcrunch.com/?p=3128074": "2026-06-01T17:20:49.670313",
+    "https://huggingface.co/blog/JetBrains/mellum2-launch": "2026-06-01T17:20:49.670315",
+    "https://techcrunch.com/?p=3128117": "2026-06-01T17:20:49.670317",
+    "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption": "2026-06-01T17:20:49.670319"
   },
-  "last_check": "2026-06-01T11:12:13.376759"
+  "last_check": "2026-06-01T17:20:49.671102"
 }
