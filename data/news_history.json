@@ -1,10 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3119100": "2026-05-05T07:57:12.457080",
-    "https://techcrunch.com/?p=3119178": "2026-05-05T13:19:34.210047",
-    "69f9b3ca89893d4d2fd1f9ae": "2026-05-05T13:19:34.210059",
-    "69a8dd65851f00c22df34988": "2026-05-05T13:19:34.210061",
-    "https://www.technologyreview.com/?p=1136843": "2026-05-05T13:19:34.210063",
     "https://techcrunch.com/?p=3119251": "2026-05-05T19:07:31.463331",
     "https://techcrunch.com/?p=3119248": "2026-05-05T19:07:31.463341",
     "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/": "2026-05-05T19:07:31.463343",
@@ -478,7 +473,12 @@
     "6a1ef111f6b7a42d15eceb24": "2026-06-03T20:48:10.603326",
     "6a186caf0f4e0379c52e93a1": "2026-06-03T20:48:10.603328",
     "6a1f0895cad962586338469b": "2026-06-04T02:52:11.146462",
-    "https://techcrunch.com/?p=3129396": "2026-06-04T02:52:11.146473"
+    "https://techcrunch.com/?p=3129396": "2026-06-04T02:52:11.146473",
+    "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr": "2026-06-04T14:39:32.897146",
+    "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data": "2026-06-04T14:39:32.897160",
+    "https://www.qbitai.com/?p=429130": "2026-06-04T14:39:32.897162",
+    "https://www.technologyreview.com/?p=1138391": "2026-06-04T14:39:32.897164",
+    "6a0f8e0e730e71e90fb731c1": "2026-06-04T14:39:32.897166"
   },
-  "last_check": "2026-06-04T09:44:29.673453"
+  "last_check": "2026-06-04T14:39:32.897918"
 }
