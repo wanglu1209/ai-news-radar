@@ -1,11 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3120740": "2026-05-08T19:06:10.764347",
-    "https://huggingface.co/blog/allenai/emo": "2026-05-08T19:06:10.764367",
-    "https://techcrunch.com/?post_type=tc_podcast&p=3120755": "2026-05-08T19:06:10.764370",
-    "69fb88738bf756131f7c45e4": "2026-05-08T19:06:10.764372",
-    "69fa41b42b14cb75633b7d13": "2026-05-08T19:06:10.764373",
-    "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/": "2026-05-08T19:06:10.764375",
     "https://www.technologyreview.com/?p=1137008": "2026-05-09T02:07:32.309791",
     "https://techcrunch.com/?p=3120983": "2026-05-09T02:07:32.309804",
     "69fe0d14bb1718c370cd0f16": "2026-05-09T12:58:18.685397",
@@ -448,7 +442,9 @@
     "https://www.qbitai.com/?p=431401": "2026-06-07T02:45:29.843718",
     "https://www.qbitai.com/?p=431487": "2026-06-07T08:46:31.647791",
     "https://www.qbitai.com/?p=431499": "2026-06-07T13:24:55.767971",
-    "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers": "2026-06-07T13:24:55.767984"
+    "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers": "2026-06-07T13:24:55.767984",
+    "https://techcrunch.com/?p=3130281": "2026-06-07T19:08:30.536651",
+    "https://techcrunch.com/?p=3130278": "2026-06-07T19:08:30.536664"
   },
-  "last_check": "2026-06-07T13:24:55.768756"
+  "last_check": "2026-06-07T19:08:30.537429"
 }
