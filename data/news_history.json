@@ -1,9 +1,5 @@
 {
   "pushed_news": {
-    "vzHtHHBJoKATi5SeK": "2026-05-11T19:28:45.521772",
-    "https://www.technologyreview.com/?p=1137090": "2026-05-11T19:28:45.521784",
-    "https://techcrunch.com/?p=3121165": "2026-05-11T19:28:45.521787",
-    "https://www.artificialintelligence-news.com/?p=113342": "2026-05-11T19:28:45.521789",
     "https://techcrunch.com/?p=3121483": "2026-05-12T02:12:22.207116",
     "6a024a6857bdfbf807f9fffc": "2026-05-12T02:12:22.207127",
     "https://huggingface.co/blog/amazon/foundation-model-building-blocks": "2026-05-12T02:12:22.207129",
@@ -480,7 +476,12 @@
     "https://www.qbitai.com/?p=433832": "2026-06-10T14:56:45.730937",
     "c2tqL9xPbttisAHtt": "2026-06-10T14:56:45.730940",
     "6a1078ed045b52d42fd7cf02": "2026-06-10T14:56:45.730942",
-    "https://www.artificialintelligence-news.com/?p=113617": "2026-06-10T14:56:45.730944"
+    "https://www.artificialintelligence-news.com/?p=113617": "2026-06-10T14:56:45.730944",
+    "https://techcrunch.com/?p=3131803": "2026-06-10T20:15:02.173708",
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/": "2026-06-10T20:15:02.173719",
+    "https://techcrunch.com/?p=3131757": "2026-06-10T20:15:02.173721",
+    "https://techcrunch.com/?p=3131724": "2026-06-10T20:15:02.173723",
+    "https://techcrunch.com/?p=3131430": "2026-06-10T20:15:02.173725"
   },
-  "last_check": "2026-06-10T14:56:45.731876"
+  "last_check": "2026-06-10T20:15:02.174732"
 }
