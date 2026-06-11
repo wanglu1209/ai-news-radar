@@ -1,9 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3121483": "2026-05-12T02:12:22.207116",
-    "6a024a6857bdfbf807f9fffc": "2026-05-12T02:12:22.207127",
-    "https://huggingface.co/blog/amazon/foundation-model-building-blocks": "2026-05-12T02:12:22.207129",
-    "https://techcrunch.com/?p=3121370": "2026-05-12T02:12:22.207131",
     "https://www.qbitai.com/?p=416540": "2026-05-12T08:28:39.539100",
     "https://www.qbitai.com/?p=416056": "2026-05-12T08:28:39.539111",
     "https://techcrunch.com/?p=3121516": "2026-05-12T08:28:39.539113",
@@ -481,7 +477,9 @@
     "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/": "2026-06-10T20:15:02.173719",
     "https://techcrunch.com/?p=3131757": "2026-06-10T20:15:02.173721",
     "https://techcrunch.com/?p=3131724": "2026-06-10T20:15:02.173723",
-    "https://techcrunch.com/?p=3131430": "2026-06-10T20:15:02.173725"
+    "https://techcrunch.com/?p=3131430": "2026-06-10T20:15:02.173725",
+    "https://www.qbitai.com/?p=434225": "2026-06-11T02:49:15.859445",
+    "https://techcrunch.com/?p=3131988": "2026-06-11T02:49:15.859458"
   },
-  "last_check": "2026-06-10T20:15:02.174732"
+  "last_check": "2026-06-11T02:49:15.860286"
 }
