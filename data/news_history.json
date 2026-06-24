@@ -1,10 +1,5 @@
 {
   "pushed_news": {
-    "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/": "2026-05-25T14:38:19.771010",
-    "6a0342514988748cf644de02": "2026-05-25T14:38:19.771022",
-    "https://www.qbitai.com/?p=424794": "2026-05-25T14:38:19.771024",
-    "https://techcrunch.com/?p=3125761": "2026-05-25T19:16:47.215278",
-    "https://techcrunch.com/?p=3125866": "2026-05-25T19:16:47.215291",
     "6a0f271b730e71e90fb72877": "2026-05-26T09:38:11.452442",
     "https://www.technologyreview.com/?p=1137855": "2026-05-26T09:38:11.452455",
     "https://www.technologyreview.com/?p=1137865": "2026-05-26T09:38:11.452457",
@@ -444,7 +439,14 @@
     "https://www.qbitai.com/?p=438174": "2026-06-24T14:10:10.306994",
     "https://www.artificialintelligence-news.com/?p=113812": "2026-06-24T14:10:10.306995",
     "https://www.qbitai.com/?p=438157": "2026-06-24T14:10:10.306997",
-    "https://www.artificialintelligence-news.com/?p=113815": "2026-06-24T14:10:10.306999"
+    "https://www.artificialintelligence-news.com/?p=113815": "2026-06-24T14:10:10.306999",
+    "6a394366fe938d9767d23e06": "2026-06-24T19:27:16.055202",
+    "https://techcrunch.com/?p=3135724": "2026-06-24T19:27:16.055211",
+    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/": "2026-06-24T19:27:16.055213",
+    "https://techcrunch.com/?p=3135624": "2026-06-24T19:27:16.055215",
+    "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel": "2026-06-24T19:27:16.055217",
+    "6a3afdf25935a4d59defeab0": "2026-06-24T19:27:16.055218",
+    "https://techcrunch.com/?p=3135687": "2026-06-24T19:27:16.055220"
   },
-  "last_check": "2026-06-24T14:10:10.307750"
+  "last_check": "2026-06-24T19:27:16.055949"
 }
