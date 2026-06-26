@@ -1,9 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3126013": "2026-05-26T19:58:48.217928",
-    "https://techcrunch.com/?p=3123948": "2026-05-26T19:58:48.217935",
-    "https://techcrunch.com/?p=3125925": "2026-05-26T19:58:48.217938",
-    "https://www.technologyreview.com/?p=1137584": "2026-05-26T19:58:48.217939",
     "6a15e8f76d627a878b76e0b7": "2026-05-27T02:40:04.880371",
     "https://techcrunch.com/?p=3126251": "2026-05-27T02:40:04.880383",
     "6a15cbcd5f7c39896f97f1b0": "2026-05-27T02:40:04.880385",
@@ -452,7 +448,11 @@
     "https://techcrunch.com/?p=3136344": "2026-06-25T19:51:41.860028",
     "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/": "2026-06-25T19:51:41.860030",
     "https://techcrunch.com/?p=3136123": "2026-06-25T19:51:41.860032",
-    "https://www.technologyreview.com/?p=1137848": "2026-06-25T19:51:41.860034"
+    "https://www.technologyreview.com/?p=1137848": "2026-06-25T19:51:41.860034",
+    "6a3c384be6c7ac5cabfbc839": "2026-06-26T02:36:14.775441",
+    "https://huggingface.co/blog/vllm-jobs": "2026-06-26T02:36:14.775451",
+    "https://techcrunch.com/?p=3136540": "2026-06-26T02:36:14.775454",
+    "6a3c2ac37ec0adce1702381b": "2026-06-26T02:36:14.775456"
   },
-  "last_check": "2026-06-25T19:51:41.861004"
+  "last_check": "2026-06-26T02:36:14.776150"
 }
