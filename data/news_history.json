@@ -1,7 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3134737": "2026-06-21T19:18:05.674462",
-    "https://techcrunch.com/?p=3134254": "2026-06-21T19:18:05.674474",
     "https://www.artificialintelligence-news.com/?p=113797": "2026-06-22T11:37:45.511790",
     "6a33f50c6f296421860803f8": "2026-06-22T11:37:45.511800",
     "https://www.qbitai.com/?p=437317": "2026-06-22T11:37:45.511802",
@@ -494,7 +492,12 @@
     "https://techcrunch.com/?p=3144722": "2026-07-21T19:05:53.260934",
     "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/": "2026-07-21T19:05:53.260936",
     "6a5e8206ee636eaa1806d386": "2026-07-21T19:05:53.260938",
-    "https://techcrunch.com/?p=3144590": "2026-07-21T19:05:53.260939"
+    "https://techcrunch.com/?p=3144590": "2026-07-21T19:05:53.260939",
+    "https://www.qbitai.com/?p=456061": "2026-07-22T01:52:28.307834",
+    "https://techcrunch.com/?p=3145004": "2026-07-22T01:52:28.307843",
+    "6a5fe022f95e7d91469f8f38": "2026-07-22T01:52:28.307845",
+    "https://techcrunch.com/?p=3144991": "2026-07-22T01:52:28.307847",
+    "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai": "2026-07-22T01:52:28.307849"
   },
-  "last_check": "2026-07-21T19:05:53.261914"
+  "last_check": "2026-07-22T01:52:28.308791"
 }
