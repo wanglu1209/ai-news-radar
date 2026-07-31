@@ -1,15 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3137719": "2026-06-30T19:43:53.893855",
-    "https://huggingface.co/blog/ibm-research/scarfbench": "2026-06-30T19:43:53.893867",
-    "https://techcrunch.com/?p=3137668": "2026-06-30T19:43:53.893870",
-    "https://techcrunch.com/?p=3137723": "2026-06-30T19:43:53.893871",
-    "https://techcrunch.com/?p=3137678": "2026-06-30T19:43:53.893873",
-    "https://techcrunch.com/?p=3137674": "2026-06-30T19:43:53.893875",
-    "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/": "2026-06-30T19:43:53.893876",
-    "https://techcrunch.com/?p=3137526": "2026-06-30T19:43:53.893879",
-    "https://techcrunch.com/?p=3135237": "2026-06-30T19:43:53.893881",
-    "https://techcrunch.com/?p=3137516": "2026-06-30T19:43:53.893883",
     "https://techcrunch.com/?p=3137898": "2026-07-01T02:43:00.062779",
     "https://techcrunch.com/?p=3137957": "2026-07-01T02:43:00.062790",
     "https://www.qbitai.com/?p=440985": "2026-07-01T02:43:00.062792",
@@ -530,7 +520,14 @@
     "https://techcrunch.com/?p=3148216": "2026-07-30T19:11:52.549199",
     "https://techcrunch.com/?p=3148209": "2026-07-30T19:11:52.549202",
     "https://huggingface.co/blog/Dharma-AI/gpu-management": "2026-07-30T19:11:52.549204",
-    "6a6910b2d6280302b8a22224": "2026-07-30T19:11:52.549206"
+    "6a6910b2d6280302b8a22224": "2026-07-30T19:11:52.549206",
+    "6a6be6442d68d3fb7677f206": "2026-07-31T02:01:02.150388",
+    "https://techcrunch.com/?p=3148621": "2026-07-31T02:01:02.150398",
+    "https://techcrunch.com/?p=3148482": "2026-07-31T02:01:02.150400",
+    "https://techcrunch.com/?p=3148540": "2026-07-31T02:01:02.150402",
+    "https://techcrunch.com/?p=3148562": "2026-07-31T02:01:02.150404",
+    "https://techcrunch.com/?p=3148510": "2026-07-31T02:01:02.150406",
+    "6a6a5903bda4e52fe44bd530": "2026-07-31T02:01:02.150407"
   },
-  "last_check": "2026-07-30T19:11:52.550147"
+  "last_check": "2026-07-31T02:01:02.151343"
 }
