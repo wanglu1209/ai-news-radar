@@ -1,9 +1,5 @@
 {
   "pushed_news": {
-    "https://www.qbitai.com/?p=449311": "2026-07-13T14:10:49.570878",
-    "https://www.artificialintelligence-news.com/?p=113929": "2026-07-13T14:10:49.570889",
-    "https://www.qbitai.com/?p=449156": "2026-07-13T14:10:49.570891",
-    "https://www.qbitai.com/?p=449150": "2026-07-13T14:10:49.570893",
     "https://techcrunch.com/?p=3141608": "2026-07-13T19:14:35.235213",
     "https://www.technologyreview.com/?p=1140343": "2026-07-13T19:14:35.235224",
     "https://techcrunch.com/?p=3141604": "2026-07-13T19:14:35.235226",
@@ -512,7 +508,17 @@
     "https://techcrunch.com/?p=3151847": "2026-08-12T12:49:08.092114",
     "6a6b8204429e149eff9adc15": "2026-08-12T12:49:08.092124",
     "6a763bc7d223b2324a2eae1c": "2026-08-12T12:49:08.092127",
-    "6a70ce132c2386859193fdee": "2026-08-12T12:49:08.092129"
+    "6a70ce132c2386859193fdee": "2026-08-12T12:49:08.092129",
+    "6a763a712f828e528da6c06f": "2026-08-12T18:50:54.196155",
+    "https://techcrunch.com/?p=3152463": "2026-08-12T18:50:54.196167",
+    "https://techcrunch.com/?p=3152082": "2026-08-12T18:50:54.196170",
+    "https://techcrunch.com/?p=3152464": "2026-08-12T18:50:54.196171",
+    "https://techcrunch.com/?p=3152358": "2026-08-12T18:50:54.196173",
+    "https://www.technologyreview.com/?p=1141032": "2026-08-12T18:50:54.196175",
+    "https://techcrunch.com/?post_type=tc_video&p=3152427": "2026-08-12T18:50:54.196176",
+    "https://techcrunch.com/?p=3152347": "2026-08-12T18:50:54.196179",
+    "https://techcrunch.com/?p=3152187": "2026-08-12T18:50:54.196181",
+    "https://www.artificialintelligence-news.com/?p=114157": "2026-08-12T18:50:54.196183"
   },
-  "last_check": "2026-08-12T12:49:08.093075"
+  "last_check": "2026-08-12T18:50:54.197193"
 }
