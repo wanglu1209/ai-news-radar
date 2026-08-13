@@ -1,9 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3141426": "2026-07-14T01:45:11.564469",
-    "https://techcrunch.com/?p=3141670": "2026-07-14T01:45:11.564479",
-    "6a55202581091f2d40d7c7da": "2026-07-14T01:45:11.564481",
-    "https://techcrunch.com/?p=3141632": "2026-07-14T01:45:11.564483",
     "https://www.qbitai.com/?p=449842": "2026-07-14T07:49:03.839378",
     "https://www.qbitai.com/?p=449568": "2026-07-14T07:49:03.839389",
     "https://techcrunch.com/?p=3141909": "2026-07-14T07:49:03.839393",
@@ -515,7 +511,12 @@
     "https://techcrunch.com/?p=3152533": "2026-08-13T01:14:21.351135",
     "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/": "2026-08-13T01:14:21.351146",
     "6a7b7aabe4e29f02b8c0d64f": "2026-08-13T01:14:21.351148",
-    "https://techcrunch.com/?p=3152544": "2026-08-13T01:14:21.351149"
+    "https://techcrunch.com/?p=3152544": "2026-08-13T01:14:21.351149",
+    "https://www.qbitai.com/?p=471697": "2026-08-13T07:14:12.643962",
+    "https://www.qbitai.com/?p=471668": "2026-08-13T07:14:12.643972",
+    "https://www.qbitai.com/?p=471642": "2026-08-13T07:14:12.643975",
+    "https://www.qbitai.com/?p=471624": "2026-08-13T07:14:12.643976",
+    "https://www.qbitai.com/?p=471451": "2026-08-13T07:14:12.643978"
   },
-  "last_check": "2026-08-13T01:14:21.351859"
+  "last_check": "2026-08-13T07:14:12.644885"
 }
