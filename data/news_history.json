@@ -1,15 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3142345": "2026-07-15T01:41:40.947741",
-    "https://techcrunch.com/?p=3142316": "2026-07-15T01:41:40.947753",
-    "https://techcrunch.com/?p=3142378": "2026-07-15T01:41:40.947755",
-    "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/": "2026-07-15T01:41:40.947757",
-    "https://techcrunch.com/?p=3142355": "2026-07-15T01:41:40.947759",
-    "https://techcrunch.com/?p=3142242": "2026-07-15T01:41:40.947761",
-    "https://techcrunch.com/?p=3142256": "2026-07-15T01:41:40.947762",
-    "https://techcrunch.com/?p=3142178": "2026-07-15T01:41:40.947765",
-    "https://www.qbitai.com/?p=450385": "2026-07-15T07:52:22.872667",
-    "https://www.qbitai.com/?p=450250": "2026-07-15T07:52:22.872680",
     "https://techcrunch.com/?p=3142610": "2026-07-15T13:17:24.843261",
     "https://techcrunch.com/?p=3142243": "2026-07-15T13:17:24.843268",
     "https://techcrunch.com/?p=3142019": "2026-07-15T13:17:24.843270",
@@ -515,7 +505,12 @@
     "https://techcrunch.com/?p=3152760": "2026-08-14T01:15:13.503505",
     "https://techcrunch.com/?p=3152870": "2026-08-14T01:15:13.503507",
     "https://techcrunch.com/?p=3152875": "2026-08-14T01:15:13.503508",
-    "https://techcrunch.com/?p=3152914": "2026-08-14T01:15:13.503510"
+    "https://techcrunch.com/?p=3152914": "2026-08-14T01:15:13.503510",
+    "6a4be2ba909d7a6775643680": "2026-08-14T12:46:40.018040",
+    "https://www.qbitai.com/?p=473149": "2026-08-14T12:46:40.018050",
+    "6a74b89762c67abb9111bd59": "2026-08-14T12:46:40.018052",
+    "https://www.qbitai.com/?p=473038": "2026-08-14T12:46:40.018054",
+    "https://www.qbitai.com/?p=473144": "2026-08-14T12:46:40.018055"
   },
-  "last_check": "2026-08-14T07:11:30.141521"
+  "last_check": "2026-08-14T12:46:40.019016"
 }
