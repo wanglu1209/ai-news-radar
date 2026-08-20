@@ -1,15 +1,5 @@
 {
   "pushed_news": {
-    "https://www.artificialintelligence-news.com/?p=113969": "2026-07-21T13:19:58.066178",
-    "https://www.technologyreview.com/?p=1140602": "2026-07-21T13:19:58.066187",
-    "6a59184877c50ea15f75ee45": "2026-07-21T13:19:58.066189",
-    "https://www.artificialintelligence-news.com/?p=113959": "2026-07-21T13:19:58.066191",
-    "https://www.qbitai.com/?p=456052": "2026-07-21T13:19:58.066193",
-    "https://www.qbitai.com/?p=456026": "2026-07-21T13:19:58.066195",
-    "6a593135c5dcf79b1ea647f8": "2026-07-21T13:19:58.066196",
-    "https://www.qbitai.com/?p=456021": "2026-07-21T13:19:58.066199",
-    "https://www.qbitai.com/?p=455998": "2026-07-21T13:19:58.066201",
-    "6a511ed6ba309b253cb3d453": "2026-07-21T13:19:58.066202",
     "https://techcrunch.com/?p=3144838": "2026-07-21T19:05:53.260917",
     "6a5e7ac56271fcbb95eb5691": "2026-07-21T19:05:53.260930",
     "https://www.artificialintelligence-news.com/?p=113974": "2026-07-21T19:05:53.260932",
@@ -466,7 +456,14 @@
     "https://www.qbitai.com/?p=476281": "2026-08-20T12:30:06.481791",
     "https://www.technologyreview.com/?p=1142070": "2026-08-20T12:30:06.481793",
     "https://techcrunch.com/?p=3154391": "2026-08-20T12:30:06.481796",
-    "https://www.qbitai.com/?p=476129": "2026-08-20T12:30:06.481797"
+    "https://www.qbitai.com/?p=476129": "2026-08-20T12:30:06.481797",
+    "https://techcrunch.com/?p=3155017": "2026-08-20T18:25:27.492340",
+    "https://techcrunch.com/?p=3154941": "2026-08-20T18:25:27.492352",
+    "https://techcrunch.com/?p=3154851": "2026-08-20T18:25:27.492354",
+    "https://techcrunch.com/?p=3154881": "2026-08-20T18:25:27.492356",
+    "https://www.technologyreview.com/?p=1142571": "2026-08-20T18:25:27.492357",
+    "https://www.artificialintelligence-news.com/?p=114256": "2026-08-20T18:25:27.492358",
+    "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/": "2026-08-20T18:25:27.492361"
   },
-  "last_check": "2026-08-20T12:30:06.482725"
+  "last_check": "2026-08-20T18:25:27.529362"
 }
