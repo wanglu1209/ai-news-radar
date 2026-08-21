@@ -1,12 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3144838": "2026-07-21T19:05:53.260917",
-    "6a5e7ac56271fcbb95eb5691": "2026-07-21T19:05:53.260930",
-    "https://www.artificialintelligence-news.com/?p=113974": "2026-07-21T19:05:53.260932",
-    "https://techcrunch.com/?p=3144722": "2026-07-21T19:05:53.260934",
-    "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/": "2026-07-21T19:05:53.260936",
-    "6a5e8206ee636eaa1806d386": "2026-07-21T19:05:53.260938",
-    "https://techcrunch.com/?p=3144590": "2026-07-21T19:05:53.260939",
     "https://www.qbitai.com/?p=456061": "2026-07-22T01:52:28.307834",
     "https://techcrunch.com/?p=3145004": "2026-07-22T01:52:28.307843",
     "6a5fe022f95e7d91469f8f38": "2026-07-22T01:52:28.307845",
@@ -463,7 +456,13 @@
     "https://techcrunch.com/?p=3154881": "2026-08-20T18:25:27.492356",
     "https://www.technologyreview.com/?p=1142571": "2026-08-20T18:25:27.492357",
     "https://www.artificialintelligence-news.com/?p=114256": "2026-08-20T18:25:27.492358",
-    "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/": "2026-08-20T18:25:27.492361"
+    "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/": "2026-08-20T18:25:27.492361",
+    "https://techcrunch.com/?p=3155270": "2026-08-21T00:49:15.176395",
+    "https://techcrunch.com/?p=3155215": "2026-08-21T00:49:15.176406",
+    "https://techcrunch.com/?p=3155224": "2026-08-21T00:49:15.176408",
+    "https://techcrunch.com/?p=3155082": "2026-08-21T00:49:15.176410",
+    "https://techcrunch.com/?p=3154952": "2026-08-21T00:49:15.176412",
+    "6a85dd109e48c15857d19bad": "2026-08-21T00:49:15.176413"
   },
-  "last_check": "2026-08-20T18:25:27.529362"
+  "last_check": "2026-08-21T00:49:15.177295"
 }
