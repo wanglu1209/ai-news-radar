@@ -1,13 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3149459": "2026-08-04T13:50:44.573631",
-    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/": "2026-08-04T13:50:44.573644",
-    "https://techcrunch.com/?p=3148851": "2026-08-04T13:50:44.573646",
-    "6a711681f4ac0ca4079ed0eb": "2026-08-04T13:50:44.573648",
-    "6a6caf552bba9f4c44a513ef": "2026-08-04T13:50:44.573650",
-    "https://www.qbitai.com/?p=465792": "2026-08-04T13:50:44.573652",
-    "6a691248a14f73606b399e44": "2026-08-04T13:50:44.573654",
-    "https://www.qbitai.com/?p=466032": "2026-08-04T13:50:44.573656",
     "https://techcrunch.com/?p=3149610": "2026-08-04T19:19:35.572082",
     "https://techcrunch.com/?p=3149611": "2026-08-04T19:19:35.572093",
     "https://techcrunch.com/?p=3149547": "2026-08-04T19:19:35.572095",
@@ -400,7 +392,13 @@
     "https://techcrunch.com/?p=3160290": "2026-09-03T02:16:57.059027",
     "https://techcrunch.com/?p=3149903": "2026-09-03T02:16:57.059029",
     "https://www.qbitai.com/?p=483600": "2026-09-03T10:27:01.478017",
-    "6a8726cd18568cdcce1a1065": "2026-09-03T10:27:01.478030"
+    "6a8726cd18568cdcce1a1065": "2026-09-03T10:27:01.478030",
+    "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/": "2026-09-03T15:32:24.262529",
+    "https://techcrunch.com/?p=3160336": "2026-09-03T15:32:24.262540",
+    "https://huggingface.co/blog/Hcompany/neomme": "2026-09-03T15:32:24.262542",
+    "6a91b5991f4267c18de22d44": "2026-09-03T15:32:24.262544",
+    "6a906b97096f095c67a177d0": "2026-09-03T15:32:24.262546",
+    "https://techcrunch.com/?p=3160347": "2026-09-03T15:32:24.262547"
   },
-  "last_check": "2026-09-03T10:27:01.478760"
+  "last_check": "2026-09-03T15:32:24.263440"
 }
