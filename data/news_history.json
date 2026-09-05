@@ -1,10 +1,5 @@
 {
   "pushed_news": {
-    "6a73566edeeb035202db1641": "2026-08-06T01:49:12.506655",
-    "https://www.qbitai.com/?p=467196": "2026-08-06T01:49:12.506669",
-    "6a6b62c925171f31c973c6ee": "2026-08-06T01:49:12.506671",
-    "https://techcrunch.com/?p=3150382": "2026-08-06T01:49:12.506673",
-    "https://techcrunch.com/?p=3150282": "2026-08-06T01:49:12.506675",
     "https://www.qbitai.com/?p=467262": "2026-08-06T08:18:43.646122",
     "https://techcrunch.com/?p=3150351": "2026-08-06T13:44:43.952304",
     "https://techcrunch.com/?p=3150500": "2026-08-06T13:44:43.952315",
@@ -407,7 +402,12 @@
     "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/": "2026-09-04T20:05:14.787914",
     "https://techcrunch.com/?post_type=tc_video&p=3160884": "2026-09-04T20:05:14.787916",
     "https://techcrunch.com/?p=3160899": "2026-09-04T20:05:14.787918",
-    "https://techcrunch.com/?post_type=tc_podcast&p=3160877": "2026-09-04T20:05:14.787919"
+    "https://techcrunch.com/?post_type=tc_podcast&p=3160877": "2026-09-04T20:05:14.787919",
+    "https://www.qbitai.com/?p=484551": "2026-09-05T02:12:56.473203",
+    "https://techcrunch.com/?p=3161014": "2026-09-05T02:12:56.473209",
+    "https://techcrunch.com/?p=3160997": "2026-09-05T02:12:56.473211",
+    "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/": "2026-09-05T02:12:56.473212",
+    "https://techcrunch.com/?p=3160981": "2026-09-05T02:12:56.473213"
   },
-  "last_check": "2026-09-04T20:05:14.788715"
+  "last_check": "2026-09-05T02:12:56.473856"
 }
