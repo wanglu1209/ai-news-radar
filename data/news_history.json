@@ -1,12 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3155017": "2026-08-20T18:25:27.492340",
-    "https://techcrunch.com/?p=3154941": "2026-08-20T18:25:27.492352",
-    "https://techcrunch.com/?p=3154851": "2026-08-20T18:25:27.492354",
-    "https://techcrunch.com/?p=3154881": "2026-08-20T18:25:27.492356",
-    "https://www.technologyreview.com/?p=1142571": "2026-08-20T18:25:27.492357",
-    "https://www.artificialintelligence-news.com/?p=114256": "2026-08-20T18:25:27.492358",
-    "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/": "2026-08-20T18:25:27.492361",
     "https://techcrunch.com/?p=3155270": "2026-08-21T00:49:15.176395",
     "https://techcrunch.com/?p=3155215": "2026-08-21T00:49:15.176406",
     "https://techcrunch.com/?p=3155224": "2026-08-21T00:49:15.176408",
@@ -449,7 +442,9 @@
     "https://www.qbitai.com/?p=492755": "2026-09-19T15:05:53.487535",
     "https://www.qbitai.com/?p=492550": "2026-09-19T15:05:53.487537",
     "6aaaaa164e40ce71797f8e63": "2026-09-19T15:05:53.487538",
-    "6aab158f069f5b268621a0f9": "2026-09-19T15:05:53.487540"
+    "6aab158f069f5b268621a0f9": "2026-09-19T15:05:53.487540",
+    "https://techcrunch.com/?p=3166647": "2026-09-19T19:48:50.593680",
+    "https://techcrunch.com/?p=3162545": "2026-09-19T19:48:50.593691"
   },
-  "last_check": "2026-09-19T15:05:53.488469"
+  "last_check": "2026-09-19T19:48:50.594435"
 }
