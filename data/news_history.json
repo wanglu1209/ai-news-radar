@@ -1,9 +1,5 @@
 {
   "pushed_news": {
-    "6a6a638dbda4e52fe44bd61a": "2026-08-24T12:30:16.593023",
-    "https://www.technologyreview.com/?p=1141740": "2026-08-24T12:30:16.593035",
-    "https://www.qbitai.com/?p=478473": "2026-08-24T12:30:16.593037",
-    "https://www.qbitai.com/?p=478469": "2026-08-24T12:30:16.593039",
     "https://techcrunch.com/?p=3155931": "2026-08-24T18:27:37.189106",
     "https://www.artificialintelligence-news.com/?p=114267": "2026-08-24T18:27:37.189114",
     "https://techcrunch.com/?p=3155937": "2026-08-24T18:27:37.189116",
@@ -478,7 +474,17 @@
     "https://www.qbitai.com/?p=496493": "2026-09-23T10:31:39.172267",
     "https://www.qbitai.com/?p=496471": "2026-09-23T10:31:39.172280",
     "https://www.qbitai.com/?p=496352": "2026-09-23T10:31:39.172282",
-    "https://techcrunch.com/?p=3167972": "2026-09-23T10:31:39.172284"
+    "https://techcrunch.com/?p=3167972": "2026-09-23T10:31:39.172284",
+    "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/": "2026-09-23T15:50:42.758066",
+    "https://techcrunch.com/?p=3168211": "2026-09-23T15:50:42.758076",
+    "https://techcrunch.com/?p=3167991": "2026-09-23T15:50:42.758078",
+    "https://techcrunch.com/?p=3167584": "2026-09-23T15:50:42.758080",
+    "https://techcrunch.com/?p=3168131": "2026-09-23T15:50:42.758082",
+    "https://huggingface.co/blog/nvidia/nemotron-diarization": "2026-09-23T15:50:42.758084",
+    "https://www.artificialintelligence-news.com/?p=114491": "2026-09-23T15:50:42.758085",
+    "https://techcrunch.com/?p=3167528": "2026-09-23T15:50:42.758088",
+    "6ab2afc756b93c0e50ac09dc": "2026-09-23T15:50:42.758090",
+    "https://techcrunch.com/?p=3167529": "2026-09-23T15:50:42.758091"
   },
-  "last_check": "2026-09-23T10:31:39.173090"
+  "last_check": "2026-09-23T15:50:42.900560"
 }
