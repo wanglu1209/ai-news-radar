@@ -1,8 +1,5 @@
 {
   "pushed_news": {
-    "6a98b7478c9d6f1d2a0923d6": "2026-09-03T02:16:57.059014",
-    "https://techcrunch.com/?p=3160290": "2026-09-03T02:16:57.059027",
-    "https://techcrunch.com/?p=3149903": "2026-09-03T02:16:57.059029",
     "https://www.qbitai.com/?p=483600": "2026-09-03T10:27:01.478017",
     "6a8726cd18568cdcce1a1065": "2026-09-03T10:27:01.478030",
     "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/": "2026-09-03T15:32:24.262529",
@@ -521,7 +518,9 @@
     "https://techcrunch.com/?p=3173395": "2026-10-02T21:38:09.874881",
     "https://techcrunch.com/?p=3173313": "2026-10-02T21:38:09.874891",
     "https://techcrunch.com/?post_type=tc_podcast&p=3173316": "2026-10-02T21:38:09.874893",
-    "https://techcrunch.com/?post_type=tc_video&p=3173314": "2026-10-02T21:38:09.874896"
+    "https://techcrunch.com/?post_type=tc_video&p=3173314": "2026-10-02T21:38:09.874896",
+    "https://techcrunch.com/?p=3173444": "2026-10-03T03:06:06.070644",
+    "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/": "2026-10-03T03:06:06.070656"
   },
-  "last_check": "2026-10-02T21:38:09.875921"
+  "last_check": "2026-10-03T03:06:06.071574"
 }
