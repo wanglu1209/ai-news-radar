@@ -1,8 +1,5 @@
 {
   "pushed_news": {
-    "https://www.qbitai.com/?p=486370": "2026-09-09T10:29:07.022785",
-    "https://www.artificialintelligence-news.com/?p=114363": "2026-09-09T10:29:07.022797",
-    "https://www.qbitai.com/?p=486288": "2026-09-09T10:29:07.022799",
     "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series": "2026-09-09T15:38:56.230866",
     "https://techcrunch.com/?p=3161895": "2026-09-09T15:38:56.230877",
     "https://techcrunch.com/?p=3161915": "2026-09-09T15:38:56.230878",
@@ -517,7 +514,11 @@
     "https://www.qbitai.com/?p=502096": "2026-10-09T03:51:11.619889",
     "https://www.qbitai.com/?p=502089": "2026-10-09T03:51:11.619891",
     "https://www.qbitai.com/?p=502083": "2026-10-09T03:51:11.619892",
-    "https://www.technologyreview.com/?p=1146224": "2026-10-09T03:51:11.619894"
+    "https://www.technologyreview.com/?p=1146224": "2026-10-09T03:51:11.619894",
+    "6ac01fede94a29d60b5da911": "2026-10-09T12:20:30.200225",
+    "https://www.technologyreview.com/?p=1145728": "2026-10-09T12:20:30.200232",
+    "https://www.qbitai.com/?p=502422": "2026-10-09T12:20:30.200233",
+    "https://www.qbitai.com/?p=502359": "2026-10-09T12:20:30.200234"
   },
-  "last_check": "2026-10-09T03:51:11.620987"
+  "last_check": "2026-10-09T12:20:30.200841"
 }
