@@ -1,8 +1,5 @@
 {
   "pushed_news": {
-    "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/": "2026-09-09T02:20:33.102445",
-    "https://techcrunch.com/?p=3161463": "2026-09-09T02:20:33.102458",
-    "https://techcrunch.com/?p=3161658": "2026-09-09T02:20:33.102460",
     "https://www.qbitai.com/?p=486370": "2026-09-09T10:29:07.022785",
     "https://www.artificialintelligence-news.com/?p=114363": "2026-09-09T10:29:07.022797",
     "https://www.qbitai.com/?p=486288": "2026-09-09T10:29:07.022799",
@@ -515,7 +512,12 @@
     "https://techcrunch.com/?p=3175754": "2026-10-08T22:41:31.141558",
     "https://techcrunch.com/?p=3175776": "2026-10-08T22:41:31.141561",
     "https://techcrunch.com/?p=3175777": "2026-10-08T22:41:31.141562",
-    "https://techcrunch.com/?p=3175311": "2026-10-08T22:41:31.141564"
+    "https://techcrunch.com/?p=3175311": "2026-10-08T22:41:31.141564",
+    "https://www.qbitai.com/?p=502106": "2026-10-09T03:51:11.619877",
+    "https://www.qbitai.com/?p=502096": "2026-10-09T03:51:11.619889",
+    "https://www.qbitai.com/?p=502089": "2026-10-09T03:51:11.619891",
+    "https://www.qbitai.com/?p=502083": "2026-10-09T03:51:11.619892",
+    "https://www.technologyreview.com/?p=1146224": "2026-10-09T03:51:11.619894"
   },
-  "last_check": "2026-10-08T22:41:31.142393"
+  "last_check": "2026-10-09T03:51:11.620987"
 }
