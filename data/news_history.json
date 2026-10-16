@@ -1,16 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3164495": "2026-09-16T02:35:19.167996",
-    "khxvR2fgAeDvG5N2F": "2026-09-16T02:35:19.168006",
-    "https://techcrunch.com/?p=3164506": "2026-09-16T02:35:19.168008",
-    "https://mistral.ai/news/mistral-x-mozilla/": "2026-09-16T10:33:03.377635",
-    "6aa82f6b6d59a577994203c4": "2026-09-16T10:33:03.377648",
-    "https://www.qbitai.com/?p=490760": "2026-09-16T10:33:03.377650",
-    "https://www.qbitai.com/?p=490756": "2026-09-16T10:33:03.377652",
-    "https://www.qbitai.com/?p=490750": "2026-09-16T10:33:03.377654",
-    "https://www.qbitai.com/?p=490686": "2026-09-16T10:33:03.377655",
-    "https://www.qbitai.com/?p=490400": "2026-09-16T10:33:03.377656",
-    "https://www.qbitai.com/?p=490396": "2026-09-16T10:33:03.377659",
     "https://techcrunch.com/?p=3164631": "2026-09-16T15:50:41.784974",
     "https://www.artificialintelligence-news.com/?p=114423": "2026-09-16T15:50:41.784983",
     "https://techcrunch.com/?p=3164799": "2026-09-16T15:50:41.784985",
@@ -471,7 +460,11 @@
     "https://huggingface.co/blog/nvidia/scaling-indic-pretraining": "2026-10-16T02:27:20.074167",
     "https://techcrunch.com/?p=3178431": "2026-10-16T02:27:20.074179",
     "6acfb7fb7efaf68414339c74": "2026-10-16T02:27:20.074180",
-    "6acfd026baa8001981e8823c": "2026-10-16T02:27:20.074182"
+    "6acfd026baa8001981e8823c": "2026-10-16T02:27:20.074182",
+    "https://techcrunch.com/?p=3178711": "2026-10-16T15:50:06.532320",
+    "https://techcrunch.com/?p=3178550": "2026-10-16T15:50:06.532334",
+    "https://techcrunch.com/?p=3178541": "2026-10-16T15:50:06.532336",
+    "6acd00154e5c3c4c4af4d8df": "2026-10-16T15:50:06.532337"
   },
-  "last_check": "2026-10-16T10:23:25.398844"
+  "last_check": "2026-10-16T15:50:06.533227"
 }
