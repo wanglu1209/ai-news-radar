@@ -1,10 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3164997": "2026-09-16T20:41:56.190181",
-    "6aa83c39069d012d55fe6d81": "2026-09-16T20:41:56.190192",
-    "https://techcrunch.com/?p=3164427": "2026-09-16T20:41:56.190194",
-    "https://techcrunch.com/?p=3164815": "2026-09-16T20:41:56.190196",
-    "https://techcrunch.com/?p=3164745": "2026-09-16T20:41:56.190197",
     "https://techcrunch.com/?p=3165204": "2026-09-17T02:39:25.329546",
     "6aaadab9f7b6740fa1cfa011": "2026-09-17T02:39:25.329557",
     "https://techcrunch.com/?p=3165076": "2026-09-17T02:39:25.329559",
@@ -461,7 +456,9 @@
     "https://techcrunch.com/?p=3178813": "2026-10-16T20:19:01.147898",
     "https://techcrunch.com/?post_type=tc_video&p=3176211": "2026-10-16T20:19:01.147900",
     "https://techcrunch.com/?post_type=tc_podcast&p=3176205": "2026-10-16T20:19:01.147902",
-    "https://techcrunch.com/?p=3178756": "2026-10-16T20:19:01.147904"
+    "https://techcrunch.com/?p=3178756": "2026-10-16T20:19:01.147904",
+    "https://techcrunch.com/?p=3178496": "2026-10-17T02:19:41.626924",
+    "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/": "2026-10-17T02:19:41.626937"
   },
-  "last_check": "2026-10-16T20:19:01.148875"
+  "last_check": "2026-10-17T02:19:41.627676"
 }
