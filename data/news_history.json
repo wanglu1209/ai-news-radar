@@ -1,15 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3166970": "2026-09-21T17:31:35.180078",
-    "https://techcrunch.com/?p=3166744": "2026-09-21T17:31:35.180092",
-    "https://techcrunch.com/?p=3166866": "2026-09-21T17:31:35.180094",
-    "https://techcrunch.com/?p=3166726": "2026-09-21T17:31:35.180096",
-    "https://techcrunch.com/?p=3166772": "2026-09-21T17:31:35.180098",
-    "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an": "2026-09-21T17:31:35.180099",
-    "6aaae32b05602692e2355e14": "2026-09-21T17:31:35.180101",
-    "https://www.technologyreview.com/?p=1144164": "2026-09-21T17:31:35.180105",
-    "https://www.technologyreview.com/?p=1144166": "2026-09-21T17:31:35.180107",
-    "https://www.technologyreview.com/?p=1144170": "2026-09-21T17:31:35.180109",
     "https://techcrunch.com/?p=3167174": "2026-09-21T21:28:39.157733",
     "https://techcrunch.com/?p=3167075": "2026-09-21T21:28:39.157745",
     "6ab15a867fffb9bb745696ef": "2026-09-21T21:28:39.157747",
@@ -423,7 +413,12 @@
     "https://huggingface.co/blog/nvidia/kumo-forecast": "2026-10-21T16:21:51.253130",
     "6ad7d96421d5362b857b93a4": "2026-10-21T16:21:51.253132",
     "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/": "2026-10-21T16:21:51.253134",
-    "https://www.qbitai.com/?p=504734": "2026-10-21T16:21:51.253135"
+    "https://www.qbitai.com/?p=504734": "2026-10-21T16:21:51.253135",
+    "https://techcrunch.com/?p=3180324": "2026-10-21T21:07:33.679834",
+    "https://techcrunch.com/?p=3180139": "2026-10-21T21:07:33.679844",
+    "https://huggingface.co/blog/nvidia/kumo-relational": "2026-10-21T21:07:33.679846",
+    "eCR373J3NZwFbacnd": "2026-10-21T21:07:33.679848",
+    "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": "2026-10-21T21:07:33.679849"
   },
-  "last_check": "2026-10-21T16:21:51.253640"
+  "last_check": "2026-10-21T21:07:33.680759"
 }
