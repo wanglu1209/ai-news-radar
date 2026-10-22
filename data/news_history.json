@@ -1,12 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3166854": "2026-09-22T20:41:40.881110",
-    "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/": "2026-09-22T20:41:40.881115",
-    "https://techcrunch.com/?p=3167713": "2026-09-22T20:41:40.881116",
-    "6ab2a41187b91de57238dc10": "2026-09-22T20:41:40.881116",
-    "https://techcrunch.com/?p=3167633": "2026-09-22T20:41:40.881117",
-    "https://techcrunch.com/?p=3167580": "2026-09-22T20:41:40.881118",
-    "6ab132184889b7f47da96288": "2026-09-22T20:41:40.881118",
     "https://techcrunch.com/?p=3167417": "2026-09-23T02:37:04.228790",
     "https://techcrunch.com/?p=3167901": "2026-09-23T02:37:04.228802",
     "https://www.qbitai.com/?p=496493": "2026-09-23T10:31:39.172267",
@@ -407,7 +400,14 @@
     "https://techcrunch.com/?p=3180587": "2026-10-22T16:21:42.636195",
     "https://techcrunch.com/?p=3180570": "2026-10-22T16:21:42.636197",
     "https://techcrunch.com/?p=3180589": "2026-10-22T16:21:42.636198",
-    "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/": "2026-10-22T16:21:42.636199"
+    "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/": "2026-10-22T16:21:42.636199",
+    "6ad944c52adb51db52e1a3c5": "2026-10-22T21:01:07.928712",
+    "https://techcrunch.com/?p=3180727": "2026-10-22T21:01:07.928722",
+    "https://techcrunch.com/?p=3180617": "2026-10-22T21:01:07.928724",
+    "https://techcrunch.com/?p=3180667": "2026-10-22T21:01:07.928726",
+    "https://www.technologyreview.com/?p=1146103": "2026-10-22T21:01:07.928727",
+    "https://techcrunch.com/?p=3180761": "2026-10-22T21:01:07.928729",
+    "https://techcrunch.com/?p=3180678": "2026-10-22T21:01:07.928731"
   },
-  "last_check": "2026-10-22T16:21:42.636993"
+  "last_check": "2026-10-22T21:01:07.941606"
 }
