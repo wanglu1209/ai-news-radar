@@ -1,15 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3167384": "2026-09-22T16:00:11.829526",
-    "https://techcrunch.com/?p=3167451": "2026-09-22T16:00:11.829541",
-    "https://techcrunch.com/?p=3167356": "2026-09-22T16:00:11.829543",
-    "https://www.qbitai.com/?p=494420": "2026-09-22T16:00:11.829545",
-    "https://www.qbitai.com/?p=494263": "2026-09-22T16:00:11.829546",
-    "https://www.technologyreview.com/?p=1144890": "2026-09-22T16:00:11.829548",
-    "https://techcrunch.com/?p=3167216": "2026-09-22T16:00:11.829549",
-    "6ab124fe1bc7aa6c3a03663f": "2026-09-22T16:00:11.829552",
-    "6ab198445aa23cbddc7c1ad7": "2026-09-22T16:00:11.829555",
-    "https://techcrunch.com/?p=3167323": "2026-09-22T16:00:11.829556",
     "https://techcrunch.com/?p=3166854": "2026-09-22T20:41:40.881110",
     "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/": "2026-09-22T20:41:40.881115",
     "https://techcrunch.com/?p=3167713": "2026-09-22T20:41:40.881116",
@@ -411,7 +401,13 @@
     "6ad8f3de7f4e8c7bfb89b8b0": "2026-10-22T10:54:18.576465",
     "https://www.technologyreview.com/?p=1146948": "2026-10-22T10:54:18.576466",
     "https://www.qbitai.com/?p=504832": "2026-10-22T10:54:18.576468",
-    "https://www.qbitai.com/?p=504800": "2026-10-22T10:54:18.576470"
+    "https://www.qbitai.com/?p=504800": "2026-10-22T10:54:18.576470",
+    "https://techcrunch.com/?p=3180196": "2026-10-22T16:21:42.636180",
+    "https://techcrunch.com/?p=3180626": "2026-10-22T16:21:42.636193",
+    "https://techcrunch.com/?p=3180587": "2026-10-22T16:21:42.636195",
+    "https://techcrunch.com/?p=3180570": "2026-10-22T16:21:42.636197",
+    "https://techcrunch.com/?p=3180589": "2026-10-22T16:21:42.636198",
+    "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/": "2026-10-22T16:21:42.636199"
   },
-  "last_check": "2026-10-22T10:54:18.577329"
+  "last_check": "2026-10-22T16:21:42.636993"
 }
