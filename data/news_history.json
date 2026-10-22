@@ -1,12 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3167174": "2026-09-21T21:28:39.157733",
-    "https://techcrunch.com/?p=3167075": "2026-09-21T21:28:39.157745",
-    "6ab15a867fffb9bb745696ef": "2026-09-21T21:28:39.157747",
-    "https://techcrunch.com/?p=3167032": "2026-09-21T21:28:39.157748",
-    "https://www.artificialintelligence-news.com/?p=114401": "2026-09-21T21:28:39.157749",
-    "https://techcrunch.com/?p=3167267": "2026-09-22T02:36:29.524418",
-    "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/": "2026-09-22T02:36:29.524425",
     "6a9970ae5d28a882aa86cc75": "2026-09-22T10:39:44.176629",
     "6aa2d039a722d0b475134265": "2026-09-22T10:39:44.176642",
     "6ab161185108d82b5616e173": "2026-09-22T10:39:44.176644",
@@ -418,7 +411,10 @@
     "https://techcrunch.com/?p=3180139": "2026-10-21T21:07:33.679844",
     "https://huggingface.co/blog/nvidia/kumo-relational": "2026-10-21T21:07:33.679846",
     "eCR373J3NZwFbacnd": "2026-10-21T21:07:33.679848",
-    "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": "2026-10-21T21:07:33.679849"
+    "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": "2026-10-21T21:07:33.679849",
+    "https://techcrunch.com/?p=3180358": "2026-10-22T02:46:23.195843",
+    "6ad92fb968bf72427a051c84": "2026-10-22T02:46:23.195852",
+    "https://techcrunch.com/?p=3180391": "2026-10-22T02:46:23.195854"
   },
-  "last_check": "2026-10-21T21:07:33.680759"
+  "last_check": "2026-10-22T02:46:23.196605"
 }
