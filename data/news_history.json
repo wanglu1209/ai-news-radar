@@ -1,9 +1,5 @@
 {
   "pushed_news": {
-    "https://www.qbitai.com/?p=496493": "2026-09-23T10:31:39.172267",
-    "https://www.qbitai.com/?p=496471": "2026-09-23T10:31:39.172280",
-    "https://www.qbitai.com/?p=496352": "2026-09-23T10:31:39.172282",
-    "https://techcrunch.com/?p=3167972": "2026-09-23T10:31:39.172284",
     "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/": "2026-09-23T15:50:42.758066",
     "https://techcrunch.com/?p=3168211": "2026-09-23T15:50:42.758076",
     "https://techcrunch.com/?p=3167991": "2026-09-23T15:50:42.758078",
@@ -409,7 +405,8 @@
     "https://techcrunch.com/?p=3181016": "2026-10-23T02:43:27.562343",
     "https://huggingface.co/blog/microsoft/thinkingbox-training": "2026-10-23T02:43:27.562354",
     "https://techcrunch.com/?p=3180936": "2026-10-23T02:43:27.562356",
-    "https://www.technologyreview.com/?p=1146109": "2026-10-23T02:43:27.562357"
+    "https://www.technologyreview.com/?p=1146109": "2026-10-23T02:43:27.562357",
+    "https://www.qbitai.com/?p=504901": "2026-10-23T10:45:45.554708"
   },
-  "last_check": "2026-10-23T02:43:27.563060"
+  "last_check": "2026-10-23T10:45:45.555419"
 }
