@@ -1,15 +1,5 @@
 {
   "pushed_news": {
-    "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/": "2026-09-23T15:50:42.758066",
-    "https://techcrunch.com/?p=3168211": "2026-09-23T15:50:42.758076",
-    "https://techcrunch.com/?p=3167991": "2026-09-23T15:50:42.758078",
-    "https://techcrunch.com/?p=3167584": "2026-09-23T15:50:42.758080",
-    "https://techcrunch.com/?p=3168131": "2026-09-23T15:50:42.758082",
-    "https://huggingface.co/blog/nvidia/nemotron-diarization": "2026-09-23T15:50:42.758084",
-    "https://www.artificialintelligence-news.com/?p=114491": "2026-09-23T15:50:42.758085",
-    "https://techcrunch.com/?p=3167528": "2026-09-23T15:50:42.758088",
-    "6ab2afc756b93c0e50ac09dc": "2026-09-23T15:50:42.758090",
-    "https://techcrunch.com/?p=3167529": "2026-09-23T15:50:42.758091",
     "https://techcrunch.com/?p=3168393": "2026-09-23T20:54:07.594504",
     "6ab15565c9d4d635b849c984": "2026-09-23T20:54:07.594515",
     "6ab27a761acebec6d2d49431": "2026-09-23T20:54:07.594517",
@@ -406,7 +396,8 @@
     "https://huggingface.co/blog/microsoft/thinkingbox-training": "2026-10-23T02:43:27.562354",
     "https://techcrunch.com/?p=3180936": "2026-10-23T02:43:27.562356",
     "https://www.technologyreview.com/?p=1146109": "2026-10-23T02:43:27.562357",
-    "https://www.qbitai.com/?p=504901": "2026-10-23T10:45:45.554708"
+    "https://www.qbitai.com/?p=504901": "2026-10-23T10:45:45.554708",
+    "https://techcrunch.com/?p=3181271": "2026-10-23T20:49:42.667194"
   },
-  "last_check": "2026-10-23T16:10:46.059215"
+  "last_check": "2026-10-23T20:49:42.667793"
 }
