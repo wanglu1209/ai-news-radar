@@ -1,15 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3172428": "2026-09-30T21:42:18.718819",
-    "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/": "2026-09-30T21:42:18.718831",
-    "6abd2716b729f64a710059c9": "2026-09-30T21:42:18.718833",
-    "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/": "2026-09-30T21:42:18.718835",
-    "6abbf44535e7c9025b8ff9e3": "2026-09-30T21:42:18.718837",
-    "https://techcrunch.com/?p=3172187": "2026-09-30T21:42:18.718838",
-    "6abaa4adb463f7c4bd0df099": "2026-09-30T21:42:18.718840",
-    "https://techcrunch.com/?p=3172305": "2026-09-30T21:42:18.718843",
-    "https://techcrunch.com/?p=3172243": "2026-09-30T21:42:18.718844",
-    "https://techcrunch.com/?p=3172200": "2026-09-30T21:42:18.718846",
     "https://techcrunch.com/?p=3172532": "2026-10-01T03:20:11.048160",
     "https://techcrunch.com/?p=3172859": "2026-10-01T22:10:27.743952",
     "6abd69a2aa33d107855886da": "2026-10-01T22:10:27.743964",
@@ -349,7 +339,11 @@
     "https://techcrunch.com/?p=3183613": "2026-10-30T17:30:47.611463",
     "https://techcrunch.com/?p=3183526": "2026-10-30T17:30:47.611465",
     "https://techcrunch.com/?p=3183579": "2026-10-30T17:30:47.611468",
-    "https://techcrunch.com/?p=3183295": "2026-10-30T17:30:47.611469"
+    "https://techcrunch.com/?p=3183295": "2026-10-30T17:30:47.611469",
+    "https://techcrunch.com/?p=3183738": "2026-10-30T21:49:29.159603",
+    "6ae2572fb8b2eb024a124f0c": "2026-10-30T21:49:29.159615",
+    "https://techcrunch.com/?p=3183832": "2026-10-30T21:49:29.159617",
+    "https://techcrunch.com/?p=3183083": "2026-10-30T21:49:29.159619"
   },
-  "last_check": "2026-10-30T17:30:47.612106"
+  "last_check": "2026-10-30T21:49:29.160178"
 }
