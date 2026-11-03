@@ -1,9 +1,5 @@
 {
   "pushed_news": {
-    "https://www.qbitai.com/?p=501451": "2026-10-04T03:34:31.925835",
-    "https://huggingface.co/blog/microsoft/thinkingbox": "2026-10-04T03:34:31.925846",
-    "https://www.qbitai.com/?p=501605": "2026-10-04T11:34:53.755800",
-    "https://www.qbitai.com/?p=501506": "2026-10-04T11:34:53.755811",
     "https://techcrunch.com/?p=3173547": "2026-10-04T16:13:13.615090",
     "https://techcrunch.com/?p=3173559": "2026-10-04T20:42:41.879346",
     "https://techcrunch.com/?p=3173555": "2026-10-04T20:42:41.879357",
@@ -334,7 +330,11 @@
     "https://techcrunch.com/?p=3184455": "2026-11-03T00:13:26.795120",
     "https://techcrunch.com/?p=3184332": "2026-11-03T00:13:26.795134",
     "https://techcrunch.com/?p=3184239": "2026-11-03T00:13:26.795136",
-    "https://techcrunch.com/?p=3184280": "2026-11-03T00:13:26.795138"
+    "https://techcrunch.com/?p=3184280": "2026-11-03T00:13:26.795138",
+    "https://www.qbitai.com/?p=507448": "2026-11-03T13:20:05.127204",
+    "6ae37585b7cef7207a0617e3": "2026-11-03T13:20:05.127213",
+    "https://www.technologyreview.com/?p=1147934": "2026-11-03T13:20:05.127214",
+    "https://techcrunch.com/?p=3184378": "2026-11-03T13:20:05.127215"
   },
-  "last_check": "2026-11-03T00:13:26.795642"
+  "last_check": "2026-11-03T13:20:05.127604"
 }
