@@ -1,9 +1,5 @@
 {
   "pushed_news": {
-    "6abfc247f4e54bcc4326dd7d": "2026-10-06T12:29:46.732758",
-    "https://www.qbitai.com/?p=501736": "2026-10-06T12:29:46.732768",
-    "https://www.qbitai.com/?p=501726": "2026-10-06T12:29:46.732770",
-    "https://huggingface.co/blog/tiiuae/falcon-emirati": "2026-10-06T12:29:46.732772",
     "https://techcrunch.com/?p=3174464": "2026-10-06T22:03:38.011247",
     "https://techcrunch.com/?p=3174674": "2026-10-06T22:03:38.011258",
     "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/": "2026-10-06T22:03:38.011261",
@@ -352,7 +348,11 @@
     "https://www.qbitai.com/?p=507688": "2026-11-05T04:28:17.781424",
     "https://techcrunch.com/?p=3185305": "2026-11-05T04:28:17.781425",
     "https://www.qbitai.com/?p=507675": "2026-11-05T04:28:17.781426",
-    "6aeb5a0c899aefeeb033196c": "2026-11-05T04:28:17.781427"
+    "6aeb5a0c899aefeeb033196c": "2026-11-05T04:28:17.781427",
+    "https://techcrunch.com/?p=3185211": "2026-11-05T13:45:54.298124",
+    "6ae50c9aba91943b4382fb0c": "2026-11-05T13:45:54.298138",
+    "6ad269f3214a8f2918b4f89d": "2026-11-05T13:45:54.298140",
+    "6ad26bec5976120efa9e5d95": "2026-11-05T13:45:54.298141"
   },
-  "last_check": "2026-11-05T04:28:17.781906"
+  "last_check": "2026-11-05T13:45:54.298810"
 }
