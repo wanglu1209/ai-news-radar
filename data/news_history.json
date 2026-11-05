@@ -1,14 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3174464": "2026-10-06T22:03:38.011247",
-    "https://techcrunch.com/?p=3174674": "2026-10-06T22:03:38.011258",
-    "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/": "2026-10-06T22:03:38.011261",
-    "https://techcrunch.com/?p=3174440": "2026-10-06T22:03:38.011262",
-    "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/": "2026-10-06T22:03:38.011264",
-    "6abe996838929764b2271cbd": "2026-10-06T22:03:38.011266",
-    "https://techcrunch.com/?p=3174492": "2026-10-06T22:03:38.011267",
-    "6ac3ef9feed40d3a2cedf84d": "2026-10-06T22:03:38.011271",
-    "https://techcrunch.com/?p=3166195": "2026-10-06T22:03:38.011273",
     "https://www.qbitai.com/?p=501749": "2026-10-07T03:31:08.363563",
     "https://techcrunch.com/?p=3174722": "2026-10-07T03:31:08.363574",
     "https://www.qbitai.com/?p=501803": "2026-10-07T12:22:46.612019",
@@ -352,7 +343,15 @@
     "https://techcrunch.com/?p=3185211": "2026-11-05T13:45:54.298124",
     "6ae50c9aba91943b4382fb0c": "2026-11-05T13:45:54.298138",
     "6ad269f3214a8f2918b4f89d": "2026-11-05T13:45:54.298140",
-    "6ad26bec5976120efa9e5d95": "2026-11-05T13:45:54.298141"
+    "6ad26bec5976120efa9e5d95": "2026-11-05T13:45:54.298141",
+    "https://techcrunch.com/?p=3185656": "2026-11-05T23:03:47.841426",
+    "6aecb226aada98abfcc68c76": "2026-11-05T23:03:47.841437",
+    "https://techcrunch.com/?p=3185610": "2026-11-05T23:03:47.841439",
+    "https://techcrunch.com/?p=3185548": "2026-11-05T23:03:47.841441",
+    "https://techcrunch.com/?p=3185414": "2026-11-05T23:03:47.841442",
+    "https://techcrunch.com/?p=3185500": "2026-11-05T23:03:47.841444",
+    "https://techcrunch.com/?p=3185468": "2026-11-05T23:03:47.841446",
+    "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/": "2026-11-05T23:03:47.841448"
   },
-  "last_check": "2026-11-05T13:45:54.298810"
+  "last_check": "2026-11-05T23:03:47.842078"
 }
