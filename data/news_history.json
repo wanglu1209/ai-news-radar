@@ -1,7 +1,5 @@
 {
   "pushed_news": {
-    "https://www.qbitai.com/?p=501749": "2026-10-07T03:31:08.363563",
-    "https://techcrunch.com/?p=3174722": "2026-10-07T03:31:08.363574",
     "https://www.qbitai.com/?p=501803": "2026-10-07T12:22:46.612019",
     "6ac3d5b47bdb47f16c28ca1b": "2026-10-07T12:22:46.612030",
     "https://www.qbitai.com/?p=501796": "2026-10-07T12:22:46.612032",
@@ -351,7 +349,8 @@
     "https://techcrunch.com/?p=3185414": "2026-11-05T23:03:47.841442",
     "https://techcrunch.com/?p=3185500": "2026-11-05T23:03:47.841444",
     "https://techcrunch.com/?p=3185468": "2026-11-05T23:03:47.841446",
-    "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/": "2026-11-05T23:03:47.841448"
+    "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/": "2026-11-05T23:03:47.841448",
+    "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/": "2026-11-06T04:26:24.000866"
   },
-  "last_check": "2026-11-05T23:03:47.842078"
+  "last_check": "2026-11-06T04:26:24.001583"
 }
