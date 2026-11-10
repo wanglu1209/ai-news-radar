@@ -1,9 +1,5 @@
 {
   "pushed_news": {
-    "https://techcrunch.com/?p=3176448": "2026-10-11T03:07:51.294521",
-    "6ac932eaafef77f50434f289": "2026-10-11T11:52:16.199696",
-    "https://www.qbitai.com/?p=502644": "2026-10-11T11:52:16.199707",
-    "https://www.qbitai.com/?p=502628": "2026-10-11T11:52:16.199709",
     "https://techcrunch.com/?p=3176460": "2026-10-11T17:06:22.158970",
     "https://techcrunch.com/?p=3176054": "2026-10-11T17:06:22.158983",
     "https://techcrunch.com/?p=3176490": "2026-10-11T21:17:42.280420",
@@ -324,7 +320,12 @@
     "6af1fac05b42cb1a21fe51eb": "2026-11-10T01:00:14.539007",
     "https://techcrunch.com/?p=3186477": "2026-11-10T01:00:14.539020",
     "https://www.technologyreview.com/?p=1148194": "2026-11-10T01:00:14.539022",
-    "https://techcrunch.com/?p=3186369": "2026-11-10T01:00:14.539023"
+    "https://techcrunch.com/?p=3186369": "2026-11-10T01:00:14.539023",
+    "https://techcrunch.com/?p=3185992": "2026-11-10T14:00:13.804049",
+    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/": "2026-11-10T14:00:13.804062",
+    "https://deepmind.google/blog/introducing-alphaproof-code/": "2026-11-10T14:00:13.804065",
+    "6ace8269ef03129fd13b25aa": "2026-11-10T14:00:13.804067",
+    "6aecd72ef3a6c68d608651ac": "2026-11-10T14:00:13.804069"
   },
-  "last_check": "2026-11-10T01:00:14.539499"
+  "last_check": "2026-11-10T14:00:13.804707"
 }
